@@ -1,0 +1,2001 @@
+Restaurant_ID,Location,Cuisine,Cost_for_Two,Rating,Votes,Review_Keywords
+REST-1000,Electronic City,North Indian,416,4.2,252,Average Experience
+REST-1001,Whitefield,Chinese,709,4.4,129,Slow Delivery
+REST-1002,Indiranagar,Continental,937,3.4,15,Bad Service
+REST-1003,Indiranagar,South Indian,746,3.9,232,Average Experience
+REST-1004,Indiranagar,Biryani,796,4.8,1876,Crowded
+REST-1005,Whitefield,North Indian,529,3.3,170,"Bad Service, Slow Delivery"
+REST-1006,Koramangala,Biryani,833,4.2,1514,Crowded
+REST-1007,Whitefield,Biryani,540,3.5,15,Slow Delivery
+REST-1008,HSR Layout,North Indian,202,4.6,745,"Crowded, Oily, Searching for Healthy"
+REST-1009,Koramangala,Biryani,497,3.6,131,Average Experience
+REST-1010,Whitefield,Chinese,580,3.7,22,Slow Delivery
+REST-1011,Koramangala,South Indian,666,4.0,146,Average Experience
+REST-1012,Whitefield,Biryani,503,4.3,84,Slow Delivery
+REST-1013,Whitefield,North Indian,596,4.7,575,"Crowded, Slow Delivery"
+REST-1014,Electronic City,South Indian,432,2.8,96,Bad Service
+REST-1015,Koramangala,Chinese,638,3.1,55,Bad Service
+REST-1016,Indiranagar,Continental,811,2.9,29,Bad Service
+REST-1017,Jayanagar,North Indian,200,2.8,156,Bad Service
+REST-1018,Koramangala,Biryani,1118,3.9,85,Average Experience
+REST-1019,Koramangala,Healthy/Salad,745,3.9,130,Average Experience
+REST-1020,Whitefield,Biryani,277,4.4,2169,"Crowded, Slow Delivery"
+REST-1021,Koramangala,Chinese,1135,3.6,131,Average Experience
+REST-1022,Jayanagar,Chinese,440,3.6,259,Average Experience
+REST-1023,Indiranagar,Chinese,994,4.5,711,Crowded
+REST-1024,Koramangala,South Indian,1102,3.5,7,Average Experience
+REST-1025,Koramangala,Healthy/Salad,709,2.9,131,Bad Service
+REST-1026,Koramangala,Healthy/Salad,723,3.4,215,Bad Service
+REST-1027,Jayanagar,South Indian,657,3.7,177,Average Experience
+REST-1028,Koramangala,Chinese,958,3.6,29,Average Experience
+REST-1029,Koramangala,Healthy/Salad,1020,3.5,174,Average Experience
+REST-1030,Indiranagar,Healthy/Salad,806,4.1,48,Average Experience
+REST-1031,Koramangala,Chinese,949,3.9,23,Average Experience
+REST-1032,HSR Layout,Chinese,200,4.3,1043,Crowded
+REST-1033,Indiranagar,North Indian,701,2.9,166,Bad Service
+REST-1034,Indiranagar,Biryani,996,3.6,181,Average Experience
+REST-1035,Koramangala,Chinese,896,3.6,16,Average Experience
+REST-1036,Koramangala,North Indian,982,3.9,251,Average Experience
+REST-1037,Whitefield,Chinese,604,3.7,34,Slow Delivery
+REST-1038,Whitefield,South Indian,200,4.2,1789,"Crowded, Slow Delivery"
+REST-1039,Koramangala,Biryani,942,3.9,66,Average Experience
+REST-1040,Indiranagar,Biryani,509,2.9,88,Bad Service
+REST-1041,Indiranagar,Biryani,619,3.3,37,Bad Service
+REST-1042,Koramangala,Chinese,963,3.7,52,Average Experience
+REST-1043,Whitefield,Biryani,567,4.1,643,"Crowded, Slow Delivery"
+REST-1044,Koramangala,Chinese,758,3.6,265,Average Experience
+REST-1045,Koramangala,Continental,704,4.1,701,Crowded
+REST-1046,Jayanagar,Healthy/Salad,200,3.9,27,Average Experience
+REST-1047,Whitefield,Chinese,473,4.1,103,Slow Delivery
+REST-1048,Indiranagar,North Indian,773,4.3,496,Average Experience
+REST-1049,HSR Layout,North Indian,776,3.6,68,Oily
+REST-1050,Koramangala,Biryani,662,4.0,59,Average Experience
+REST-1051,Whitefield,North Indian,288,3.0,249,"Bad Service, Slow Delivery"
+REST-1052,Koramangala,Chinese,867,4.7,1050,Crowded
+REST-1053,Koramangala,North Indian,501,3.1,208,Bad Service
+REST-1054,Koramangala,Chinese,567,4.0,222,Average Experience
+REST-1055,Koramangala,South Indian,992,3.8,103,Average Experience
+REST-1056,Indiranagar,Biryani,890,3.4,22,Bad Service
+REST-1057,Koramangala,North Indian,480,3.1,69,Bad Service
+REST-1058,Whitefield,North Indian,200,3.7,153,Slow Delivery
+REST-1059,Electronic City,Continental,585,4.6,1568,Crowded
+REST-1060,HSR Layout,Healthy/Salad,488,3.8,60,Average Experience
+REST-1061,Koramangala,North Indian,843,3.2,109,Bad Service
+REST-1062,HSR Layout,Chinese,200,4.0,44,Searching for Healthy
+REST-1063,Indiranagar,South Indian,857,4.4,52,Average Experience
+REST-1064,Indiranagar,North Indian,355,3.3,559,"Crowded, Bad Service"
+REST-1065,Indiranagar,South Indian,605,3.0,107,Bad Service
+REST-1066,Indiranagar,North Indian,783,4.9,5096,Crowded
+REST-1067,Koramangala,North Indian,895,3.4,214,Bad Service
+REST-1068,HSR Layout,Chinese,328,3.6,146,Searching for Healthy
+REST-1069,Koramangala,Chinese,884,3.5,58,Average Experience
+REST-1070,Koramangala,Continental,1023,3.2,98,Bad Service
+REST-1071,Electronic City,Biryani,200,3.9,157,Average Experience
+REST-1072,Electronic City,Continental,428,3.6,93,Average Experience
+REST-1073,Indiranagar,Chinese,832,3.3,187,Bad Service
+REST-1074,Indiranagar,South Indian,1004,3.4,61,Bad Service
+REST-1075,Indiranagar,Continental,611,2.9,13,Bad Service
+REST-1076,Koramangala,North Indian,951,3.5,57,Average Experience
+REST-1077,Koramangala,North Indian,871,3.8,580,Crowded
+REST-1078,Whitefield,North Indian,453,4.9,2308,"Crowded, Slow Delivery"
+REST-1079,Jayanagar,Biryani,613,3.9,96,Average Experience
+REST-1080,Koramangala,South Indian,497,3.4,92,Bad Service
+REST-1081,Koramangala,Chinese,839,3.5,172,Average Experience
+REST-1082,Koramangala,Healthy/Salad,732,3.9,24,Average Experience
+REST-1083,HSR Layout,Chinese,497,3.5,67,Average Experience
+REST-1084,Electronic City,Continental,499,4.9,1795,Crowded
+REST-1085,Jayanagar,Healthy/Salad,430,3.6,88,Average Experience
+REST-1086,Koramangala,Continental,833,4.2,1199,Crowded
+REST-1087,Koramangala,Chinese,787,4.3,774,Crowded
+REST-1088,Whitefield,Chinese,460,4.0,122,Slow Delivery
+REST-1089,Jayanagar,Chinese,200,2.5,48,Bad Service
+REST-1090,Indiranagar,North Indian,670,4.2,1187,Crowded
+REST-1091,Jayanagar,North Indian,247,3.9,137,Average Experience
+REST-1092,Electronic City,Biryani,431,3.6,402,Average Experience
+REST-1093,Koramangala,Healthy/Salad,564,4.6,835,Crowded
+REST-1094,Electronic City,Biryani,200,3.8,244,Average Experience
+REST-1095,Koramangala,Healthy/Salad,860,4.1,209,Average Experience
+REST-1096,Electronic City,North Indian,469,4.2,292,Average Experience
+REST-1097,Electronic City,Biryani,398,3.8,178,Average Experience
+REST-1098,Koramangala,Chinese,487,4.1,222,Average Experience
+REST-1099,Whitefield,Biryani,571,3.6,63,Slow Delivery
+REST-1100,Indiranagar,South Indian,944,4.2,2700,Crowded
+REST-1101,Indiranagar,Chinese,749,3.7,13,Average Experience
+REST-1102,Koramangala,Biryani,662,4.9,110,Average Experience
+REST-1103,Koramangala,South Indian,1203,3.5,596,Crowded
+REST-1104,HSR Layout,Continental,615,3.7,169,Average Experience
+REST-1105,Indiranagar,Healthy/Salad,1180,3.6,86,Average Experience
+REST-1106,HSR Layout,South Indian,264,4.5,1627,Crowded
+REST-1107,Whitefield,Biryani,567,3.1,36,"Bad Service, Slow Delivery"
+REST-1108,Indiranagar,Chinese,738,4.6,1411,Crowded
+REST-1109,Electronic City,Healthy/Salad,321,2.8,25,Bad Service
+REST-1110,HSR Layout,Chinese,758,3.9,449,Searching for Healthy
+REST-1111,Jayanagar,Biryani,287,4.7,151,Average Experience
+REST-1112,Jayanagar,North Indian,205,2.6,118,Bad Service
+REST-1113,Whitefield,Biryani,476,4.1,3558,"Crowded, Slow Delivery"
+REST-1114,Koramangala,Biryani,1111,3.6,6,Average Experience
+REST-1115,Electronic City,Chinese,210,4.3,143,Average Experience
+REST-1116,Indiranagar,Healthy/Salad,1159,4.1,2452,Crowded
+REST-1117,Koramangala,Chinese,932,3.2,32,Bad Service
+REST-1118,Koramangala,South Indian,633,4.2,214,Average Experience
+REST-1119,Jayanagar,Biryani,762,4.4,934,Crowded
+REST-1120,Electronic City,Healthy/Salad,441,3.6,350,Average Experience
+REST-1121,Indiranagar,Biryani,946,3.7,328,Average Experience
+REST-1122,HSR Layout,South Indian,422,4.9,1236,Crowded
+REST-1123,Indiranagar,North Indian,460,4.5,4231,Crowded
+REST-1124,Indiranagar,Biryani,1151,2.9,53,Bad Service
+REST-1125,Koramangala,South Indian,1027,3.8,84,Average Experience
+REST-1126,Indiranagar,Chinese,682,4.3,310,Average Experience
+REST-1127,Indiranagar,Continental,900,4.6,463,Average Experience
+REST-1128,Koramangala,South Indian,1006,3.9,266,Average Experience
+REST-1129,Jayanagar,Chinese,424,3.5,92,Average Experience
+REST-1130,Koramangala,Continental,999,3.6,9,Average Experience
+REST-1131,HSR Layout,Chinese,494,4.2,2247,Crowded
+REST-1132,Indiranagar,North Indian,843,3.1,197,Bad Service
+REST-1133,Koramangala,Continental,606,3.9,146,Average Experience
+REST-1134,HSR Layout,North Indian,433,4.0,262,Oily
+REST-1135,Koramangala,South Indian,943,3.5,142,Average Experience
+REST-1136,Electronic City,Continental,551,2.9,43,Bad Service
+REST-1137,Indiranagar,Chinese,1089,3.7,346,Average Experience
+REST-1138,Koramangala,Chinese,816,3.5,152,Average Experience
+REST-1139,Koramangala,South Indian,815,4.2,985,Crowded
+REST-1140,Koramangala,Continental,1024,3.5,9,Average Experience
+REST-1141,Koramangala,Chinese,416,3.6,32,Average Experience
+REST-1142,HSR Layout,Chinese,437,3.1,192,Bad Service
+REST-1143,Koramangala,Healthy/Salad,1034,4.6,1178,Crowded
+REST-1144,Electronic City,Continental,201,3.1,41,Bad Service
+REST-1145,HSR Layout,North Indian,200,3.4,638,"Crowded, Bad Service, Oily"
+REST-1146,HSR Layout,North Indian,631,3.2,206,"Bad Service, Oily, Searching for Healthy"
+REST-1147,Electronic City,Chinese,514,3.8,22,Average Experience
+REST-1148,Whitefield,North Indian,214,3.8,30,Slow Delivery
+REST-1149,Koramangala,Continental,725,2.9,64,Bad Service
+REST-1150,Jayanagar,Chinese,600,4.5,600,Crowded
+REST-1151,Koramangala,Healthy/Salad,787,4.0,198,Average Experience
+REST-1152,Koramangala,Healthy/Salad,977,3.1,6,Bad Service
+REST-1153,Indiranagar,Continental,575,3.6,58,Average Experience
+REST-1154,Koramangala,Chinese,1031,3.9,125,Average Experience
+REST-1155,Koramangala,North Indian,811,4.5,3171,Crowded
+REST-1156,HSR Layout,North Indian,261,3.4,48,"Bad Service, Oily"
+REST-1157,Indiranagar,South Indian,341,2.8,9,Bad Service
+REST-1158,HSR Layout,Chinese,396,2.9,38,Bad Service
+REST-1159,Koramangala,Healthy/Salad,645,4.1,26,Average Experience
+REST-1160,Koramangala,Healthy/Salad,719,3.1,2,Bad Service
+REST-1161,HSR Layout,North Indian,242,3.3,241,"Bad Service, Oily, Searching for Healthy"
+REST-1162,HSR Layout,Chinese,200,4.1,3,Average Experience
+REST-1163,Koramangala,Biryani,694,4.6,1591,Crowded
+REST-1164,Whitefield,Continental,200,3.9,171,Slow Delivery
+REST-1165,Jayanagar,Chinese,290,3.7,29,Average Experience
+REST-1166,Whitefield,Chinese,458,3.6,84,Slow Delivery
+REST-1167,Jayanagar,Healthy/Salad,436,3.6,78,Average Experience
+REST-1168,Indiranagar,North Indian,551,4.0,8,Average Experience
+REST-1169,Koramangala,South Indian,685,3.9,252,Average Experience
+REST-1170,Indiranagar,South Indian,761,4.5,874,Crowded
+REST-1171,Jayanagar,North Indian,509,4.2,1683,Crowded
+REST-1172,Koramangala,Continental,1006,3.3,4,Bad Service
+REST-1173,Electronic City,North Indian,308,3.8,111,Average Experience
+REST-1174,Whitefield,North Indian,526,3.8,33,Slow Delivery
+REST-1175,Indiranagar,Healthy/Salad,855,4.3,1164,Crowded
+REST-1176,Koramangala,Chinese,951,4.3,300,Average Experience
+REST-1177,Koramangala,North Indian,897,3.8,27,Average Experience
+REST-1178,Indiranagar,South Indian,946,3.6,452,Average Experience
+REST-1179,Electronic City,Chinese,820,3.6,130,Average Experience
+REST-1180,Indiranagar,Chinese,638,3.3,82,Bad Service
+REST-1181,Indiranagar,Healthy/Salad,719,3.8,111,Average Experience
+REST-1182,Electronic City,South Indian,200,4.6,149,Average Experience
+REST-1183,Jayanagar,Continental,533,4.1,276,Average Experience
+REST-1184,Koramangala,North Indian,822,3.9,169,Average Experience
+REST-1185,Koramangala,Biryani,793,3.0,22,Bad Service
+REST-1186,Jayanagar,Biryani,254,4.0,167,Average Experience
+REST-1187,Koramangala,Chinese,1052,3.5,1,Average Experience
+REST-1188,HSR Layout,South Indian,357,3.7,0,Average Experience
+REST-1189,Jayanagar,Healthy/Salad,200,4.5,1992,Crowded
+REST-1190,Jayanagar,North Indian,248,3.7,49,Average Experience
+REST-1191,Koramangala,Chinese,865,3.2,4,Bad Service
+REST-1192,Electronic City,Healthy/Salad,382,3.7,36,Average Experience
+REST-1193,Indiranagar,Biryani,931,3.2,533,"Crowded, Bad Service"
+REST-1194,Koramangala,Biryani,1107,4.3,3054,Crowded
+REST-1195,HSR Layout,Healthy/Salad,200,3.6,125,Average Experience
+REST-1196,Indiranagar,Biryani,1137,3.7,212,Average Experience
+REST-1197,HSR Layout,Chinese,245,3.3,49,Bad Service
+REST-1198,Indiranagar,Healthy/Salad,611,3.4,110,Bad Service
+REST-1199,Koramangala,Biryani,650,2.7,125,Bad Service
+REST-1200,Koramangala,Chinese,660,3.4,176,Bad Service
+REST-1201,Whitefield,North Indian,294,3.4,82,"Bad Service, Slow Delivery"
+REST-1202,Jayanagar,Biryani,490,3.8,66,Average Experience
+REST-1203,Indiranagar,North Indian,1196,4.2,769,Crowded
+REST-1204,Whitefield,Healthy/Salad,423,3.5,17,Slow Delivery
+REST-1205,Koramangala,Continental,992,3.8,70,Average Experience
+REST-1206,Indiranagar,South Indian,652,4.4,125,Average Experience
+REST-1207,Electronic City,South Indian,716,3.8,28,Average Experience
+REST-1208,Electronic City,Biryani,200,4.1,1175,Crowded
+REST-1209,Whitefield,South Indian,696,2.6,81,"Bad Service, Slow Delivery"
+REST-1210,Indiranagar,Biryani,576,3.6,64,Average Experience
+REST-1211,HSR Layout,North Indian,229,4.1,49,Oily
+REST-1212,Koramangala,Healthy/Salad,643,3.2,60,Bad Service
+REST-1213,Whitefield,Biryani,269,4.6,422,Slow Delivery
+REST-1214,HSR Layout,Chinese,411,4.5,690,Crowded
+REST-1215,Koramangala,North Indian,1030,4.8,368,Average Experience
+REST-1216,Koramangala,Chinese,940,3.6,12,Average Experience
+REST-1217,Electronic City,South Indian,659,3.5,13,Average Experience
+REST-1218,Koramangala,South Indian,563,3.4,256,Bad Service
+REST-1219,Jayanagar,Healthy/Salad,397,4.5,82,Average Experience
+REST-1220,Whitefield,Healthy/Salad,662,3.5,303,Slow Delivery
+REST-1221,Indiranagar,Continental,782,3.7,16,Average Experience
+REST-1222,Koramangala,Chinese,927,4.9,956,Crowded
+REST-1223,Koramangala,Continental,553,4.0,120,Average Experience
+REST-1224,Koramangala,Chinese,797,3.5,40,Average Experience
+REST-1225,Whitefield,Continental,621,4.7,177,Slow Delivery
+REST-1226,Koramangala,North Indian,758,3.8,104,Average Experience
+REST-1227,Electronic City,Healthy/Salad,200,3.5,84,Average Experience
+REST-1228,Koramangala,Healthy/Salad,731,3.7,30,Average Experience
+REST-1229,Koramangala,Healthy/Salad,658,4.6,1461,Crowded
+REST-1230,Indiranagar,Chinese,692,3.8,10,Average Experience
+REST-1231,Electronic City,Healthy/Salad,319,3.6,147,Average Experience
+REST-1232,Koramangala,South Indian,628,4.6,871,Crowded
+REST-1233,Whitefield,South Indian,282,4.6,1003,"Crowded, Slow Delivery"
+REST-1234,Indiranagar,Biryani,805,4.0,12,Average Experience
+REST-1235,Electronic City,South Indian,247,4.1,879,Crowded
+REST-1236,Jayanagar,Chinese,271,4.2,124,Average Experience
+REST-1237,HSR Layout,Chinese,387,3.9,106,Searching for Healthy
+REST-1238,Koramangala,Continental,1101,3.1,85,Bad Service
+REST-1239,Koramangala,Chinese,1086,4.0,58,Average Experience
+REST-1240,Koramangala,Healthy/Salad,702,3.6,12,Average Experience
+REST-1241,HSR Layout,South Indian,200,4.0,210,Average Experience
+REST-1242,Whitefield,Chinese,556,3.9,196,Slow Delivery
+REST-1243,HSR Layout,Biryani,558,3.2,53,Bad Service
+REST-1244,Electronic City,Healthy/Salad,580,4.1,94,Average Experience
+REST-1245,HSR Layout,Chinese,557,3.4,172,"Bad Service, Searching for Healthy"
+REST-1246,Jayanagar,Biryani,287,3.9,196,Average Experience
+REST-1247,Koramangala,South Indian,764,4.3,1741,Crowded
+REST-1248,Koramangala,North Indian,1119,3.8,170,Average Experience
+REST-1249,Indiranagar,Biryani,557,3.5,256,Average Experience
+REST-1250,Whitefield,Chinese,348,3.5,67,Slow Delivery
+REST-1251,Electronic City,South Indian,414,3.8,4,Average Experience
+REST-1252,Whitefield,Healthy/Salad,584,3.2,31,"Bad Service, Slow Delivery"
+REST-1253,Indiranagar,Chinese,468,3.7,174,Average Experience
+REST-1254,Jayanagar,Biryani,749,4.7,274,Average Experience
+REST-1255,Indiranagar,North Indian,815,4.0,35,Average Experience
+REST-1256,Koramangala,Continental,691,2.6,53,Bad Service
+REST-1257,Koramangala,Chinese,713,4.0,0,Average Experience
+REST-1258,HSR Layout,South Indian,312,4.2,1748,Crowded
+REST-1259,Koramangala,Biryani,331,3.6,123,Average Experience
+REST-1260,Koramangala,North Indian,477,3.4,48,Bad Service
+REST-1261,Koramangala,Chinese,785,4.1,774,Crowded
+REST-1262,Electronic City,North Indian,402,4.3,623,Crowded
+REST-1263,Electronic City,North Indian,549,4.1,594,Crowded
+REST-1264,Koramangala,Continental,686,3.8,59,Average Experience
+REST-1265,HSR Layout,Biryani,465,3.6,10,Average Experience
+REST-1266,Indiranagar,Healthy/Salad,711,4.0,145,Average Experience
+REST-1267,HSR Layout,South Indian,200,3.3,84,Bad Service
+REST-1268,HSR Layout,Continental,340,4.1,371,Average Experience
+REST-1269,Whitefield,Healthy/Salad,200,4.1,1092,"Crowded, Slow Delivery"
+REST-1270,Jayanagar,South Indian,218,3.6,98,Average Experience
+REST-1271,Whitefield,Biryani,463,3.4,248,"Bad Service, Slow Delivery"
+REST-1272,Indiranagar,Healthy/Salad,1034,4.8,34,Average Experience
+REST-1273,Koramangala,Healthy/Salad,873,4.5,56,Average Experience
+REST-1274,Koramangala,Chinese,823,4.7,451,Average Experience
+REST-1275,Indiranagar,Healthy/Salad,820,4.0,98,Average Experience
+REST-1276,Electronic City,North Indian,704,3.8,29,Average Experience
+REST-1277,Whitefield,Biryani,666,3.1,50,"Bad Service, Slow Delivery"
+REST-1278,HSR Layout,South Indian,585,3.6,8,Average Experience
+REST-1279,Koramangala,Biryani,774,3.8,620,Crowded
+REST-1280,Indiranagar,Biryani,935,4.1,3286,Crowded
+REST-1281,Indiranagar,Biryani,912,3.7,18,Average Experience
+REST-1282,Koramangala,North Indian,602,3.1,70,Bad Service
+REST-1283,Jayanagar,South Indian,470,3.6,13,Average Experience
+REST-1284,Koramangala,Continental,708,4.4,329,Average Experience
+REST-1285,Indiranagar,South Indian,481,4.2,893,Crowded
+REST-1286,Jayanagar,Continental,369,4.9,459,Average Experience
+REST-1287,Koramangala,Healthy/Salad,1075,3.4,57,Bad Service
+REST-1288,Indiranagar,Biryani,708,3.8,96,Average Experience
+REST-1289,Koramangala,Chinese,1079,3.6,90,Average Experience
+REST-1290,Koramangala,South Indian,768,4.5,1902,Crowded
+REST-1291,Jayanagar,Chinese,378,3.4,2,Bad Service
+REST-1292,HSR Layout,South Indian,529,3.8,221,Average Experience
+REST-1293,Indiranagar,Biryani,270,3.6,75,Average Experience
+REST-1294,Koramangala,North Indian,1342,3.6,68,Average Experience
+REST-1295,Koramangala,Biryani,216,4.7,1500,Crowded
+REST-1296,HSR Layout,Chinese,401,3.7,1,Average Experience
+REST-1297,Indiranagar,Biryani,634,4.1,2662,Crowded
+REST-1298,Whitefield,Biryani,342,4.1,129,Slow Delivery
+REST-1299,Jayanagar,Continental,247,3.8,126,Average Experience
+REST-1300,Koramangala,Chinese,399,4.5,772,Crowded
+REST-1301,Koramangala,Continental,836,3.4,81,Bad Service
+REST-1302,HSR Layout,Chinese,281,3.5,229,Searching for Healthy
+REST-1303,Koramangala,South Indian,566,3.6,74,Average Experience
+REST-1304,Whitefield,Biryani,331,4.2,451,Slow Delivery
+REST-1305,HSR Layout,North Indian,249,4.0,48,Oily
+REST-1306,Koramangala,Chinese,947,3.9,13,Average Experience
+REST-1307,Indiranagar,Biryani,777,3.3,61,Bad Service
+REST-1308,Indiranagar,Continental,762,4.1,935,Crowded
+REST-1309,Whitefield,North Indian,562,2.6,122,"Bad Service, Slow Delivery"
+REST-1310,HSR Layout,North Indian,227,3.8,133,Oily
+REST-1311,Koramangala,North Indian,910,4.2,386,Average Experience
+REST-1312,HSR Layout,North Indian,448,4.1,37,Oily
+REST-1313,Electronic City,Healthy/Salad,549,3.8,44,Average Experience
+REST-1314,Koramangala,Chinese,1010,4.3,68,Average Experience
+REST-1315,HSR Layout,North Indian,308,3.5,80,Oily
+REST-1316,Electronic City,South Indian,257,4.2,3218,Crowded
+REST-1317,Koramangala,North Indian,988,3.6,11,Average Experience
+REST-1318,Koramangala,North Indian,941,4.3,3696,Crowded
+REST-1319,Indiranagar,Continental,694,3.8,5,Average Experience
+REST-1320,Indiranagar,Healthy/Salad,858,4.5,856,Crowded
+REST-1321,Koramangala,Healthy/Salad,656,4.1,739,Crowded
+REST-1322,Jayanagar,Healthy/Salad,200,4.2,424,Average Experience
+REST-1323,Whitefield,Chinese,486,4.6,692,"Crowded, Slow Delivery"
+REST-1324,Indiranagar,Biryani,658,3.9,1,Average Experience
+REST-1325,Jayanagar,Healthy/Salad,528,3.3,242,Bad Service
+REST-1326,Indiranagar,North Indian,772,3.7,9,Average Experience
+REST-1327,Indiranagar,North Indian,588,3.1,154,Bad Service
+REST-1328,Koramangala,Biryani,657,4.2,178,Average Experience
+REST-1329,Jayanagar,Healthy/Salad,317,3.3,64,Bad Service
+REST-1330,Electronic City,Continental,344,3.3,135,Bad Service
+REST-1331,Indiranagar,Healthy/Salad,835,3.7,45,Average Experience
+REST-1332,Jayanagar,South Indian,248,3.0,89,Bad Service
+REST-1333,Koramangala,Continental,850,3.2,26,Bad Service
+REST-1334,Indiranagar,North Indian,964,3.6,28,Average Experience
+REST-1335,Electronic City,Healthy/Salad,299,4.5,2158,Crowded
+REST-1336,Indiranagar,Biryani,624,3.5,279,Average Experience
+REST-1337,Indiranagar,Continental,984,2.9,166,Bad Service
+REST-1338,Koramangala,Chinese,912,3.1,81,Bad Service
+REST-1339,Jayanagar,Continental,504,4.1,238,Average Experience
+REST-1340,Electronic City,Biryani,210,4.5,2634,Crowded
+REST-1341,Koramangala,Continental,874,3.2,60,Bad Service
+REST-1342,HSR Layout,Biryani,200,3.6,21,Average Experience
+REST-1343,Koramangala,Biryani,593,4.2,779,Crowded
+REST-1344,Whitefield,South Indian,329,2.9,16,"Bad Service, Slow Delivery"
+REST-1345,Jayanagar,Continental,767,3.9,2,Average Experience
+REST-1346,Whitefield,South Indian,441,2.7,2,"Bad Service, Slow Delivery"
+REST-1347,Indiranagar,Continental,307,3.8,74,Average Experience
+REST-1348,Indiranagar,South Indian,899,3.9,51,Average Experience
+REST-1349,Whitefield,North Indian,351,4.4,386,Slow Delivery
+REST-1350,Koramangala,South Indian,1103,4.4,410,Average Experience
+REST-1351,Koramangala,Chinese,1121,4.6,3205,Crowded
+REST-1352,HSR Layout,North Indian,534,4.4,3022,"Crowded, Oily"
+REST-1353,Electronic City,Chinese,458,4.2,284,Average Experience
+REST-1354,Electronic City,North Indian,230,4.6,932,Crowded
+REST-1355,Electronic City,Healthy/Salad,449,3.3,8,Bad Service
+REST-1356,Jayanagar,North Indian,647,3.6,201,Average Experience
+REST-1357,Koramangala,Healthy/Salad,687,3.4,135,Bad Service
+REST-1358,Koramangala,Chinese,920,4.0,19,Average Experience
+REST-1359,HSR Layout,North Indian,641,3.4,275,"Bad Service, Oily, Searching for Healthy"
+REST-1360,Whitefield,Continental,265,3.5,15,Slow Delivery
+REST-1361,Jayanagar,North Indian,464,4.5,735,Crowded
+REST-1362,Whitefield,North Indian,200,3.8,58,Slow Delivery
+REST-1363,Jayanagar,Healthy/Salad,418,4.2,972,Crowded
+REST-1364,Koramangala,Continental,1081,3.6,157,Average Experience
+REST-1365,Whitefield,North Indian,209,3.1,118,"Bad Service, Slow Delivery"
+REST-1366,Whitefield,Chinese,534,4.5,834,"Crowded, Slow Delivery"
+REST-1367,Indiranagar,Healthy/Salad,931,3.7,59,Average Experience
+REST-1368,Whitefield,Continental,452,4.0,59,Slow Delivery
+REST-1369,Indiranagar,Healthy/Salad,756,3.8,2,Average Experience
+REST-1370,HSR Layout,Biryani,200,3.1,24,Bad Service
+REST-1371,Electronic City,Healthy/Salad,384,3.3,49,Bad Service
+REST-1372,Whitefield,North Indian,396,4.7,1001,"Crowded, Slow Delivery"
+REST-1373,Whitefield,Healthy/Salad,512,3.9,134,Slow Delivery
+REST-1374,Electronic City,Biryani,239,3.8,108,Average Experience
+REST-1375,Whitefield,Healthy/Salad,489,3.4,30,"Bad Service, Slow Delivery"
+REST-1376,Koramangala,Healthy/Salad,632,3.5,69,Average Experience
+REST-1377,Electronic City,North Indian,842,3.3,196,Bad Service
+REST-1378,Indiranagar,Healthy/Salad,1007,4.6,1045,Crowded
+REST-1379,Whitefield,South Indian,200,3.4,123,"Bad Service, Slow Delivery"
+REST-1380,HSR Layout,South Indian,500,4.3,0,Average Experience
+REST-1381,Electronic City,Chinese,200,3.9,51,Average Experience
+REST-1382,HSR Layout,South Indian,328,4.5,2,Average Experience
+REST-1383,Indiranagar,Biryani,686,3.3,230,Bad Service
+REST-1384,HSR Layout,Continental,573,3.1,174,Bad Service
+REST-1385,Electronic City,Continental,493,3.0,153,Bad Service
+REST-1386,Electronic City,South Indian,200,3.8,34,Average Experience
+REST-1387,HSR Layout,Healthy/Salad,200,3.5,28,Average Experience
+REST-1388,Koramangala,North Indian,493,3.6,180,Average Experience
+REST-1389,Indiranagar,South Indian,260,4.0,11,Average Experience
+REST-1390,Jayanagar,South Indian,244,4.0,63,Average Experience
+REST-1391,Indiranagar,Biryani,928,3.5,14,Average Experience
+REST-1392,Jayanagar,Biryani,615,3.8,57,Average Experience
+REST-1393,HSR Layout,South Indian,317,4.6,671,Crowded
+REST-1394,Indiranagar,South Indian,878,4.0,243,Average Experience
+REST-1395,HSR Layout,Chinese,408,4.1,783,Crowded
+REST-1396,Indiranagar,Biryani,538,3.6,185,Average Experience
+REST-1397,Whitefield,Healthy/Salad,310,4.1,219,Slow Delivery
+REST-1398,Electronic City,North Indian,355,4.1,201,Average Experience
+REST-1399,HSR Layout,Chinese,278,4.4,3459,Crowded
+REST-1400,Indiranagar,South Indian,1030,4.2,12,Average Experience
+REST-1401,Koramangala,Healthy/Salad,1094,3.4,71,Bad Service
+REST-1402,Electronic City,Healthy/Salad,200,3.1,140,Bad Service
+REST-1403,Electronic City,Healthy/Salad,200,3.7,39,Average Experience
+REST-1404,Koramangala,Healthy/Salad,560,4.4,258,Average Experience
+REST-1405,Koramangala,Chinese,644,3.3,49,Bad Service
+REST-1406,Koramangala,Continental,558,4.8,1223,Crowded
+REST-1407,Electronic City,Chinese,383,4.4,1988,Crowded
+REST-1408,HSR Layout,North Indian,419,3.3,0,"Bad Service, Oily"
+REST-1409,Koramangala,South Indian,604,3.4,204,Bad Service
+REST-1410,Koramangala,Biryani,984,3.6,70,Average Experience
+REST-1411,Koramangala,Continental,492,3.4,17,Bad Service
+REST-1412,Indiranagar,South Indian,740,4.3,312,Average Experience
+REST-1413,Indiranagar,North Indian,1091,4.4,1495,Crowded
+REST-1414,Whitefield,North Indian,583,3.0,63,"Bad Service, Slow Delivery"
+REST-1415,Koramangala,Chinese,729,3.2,3,Bad Service
+REST-1416,Whitefield,Continental,275,3.0,86,"Bad Service, Slow Delivery"
+REST-1417,HSR Layout,Healthy/Salad,517,3.8,11,Average Experience
+REST-1418,Koramangala,Healthy/Salad,919,4.7,1373,Crowded
+REST-1419,Electronic City,South Indian,640,2.9,79,Bad Service
+REST-1420,Koramangala,South Indian,675,3.5,44,Average Experience
+REST-1421,Whitefield,South Indian,422,4.1,2791,"Crowded, Slow Delivery"
+REST-1422,Whitefield,North Indian,792,3.7,122,Slow Delivery
+REST-1423,Electronic City,Biryani,450,4.1,53,Average Experience
+REST-1424,HSR Layout,Chinese,501,2.8,51,Bad Service
+REST-1425,Jayanagar,Chinese,515,3.8,219,Average Experience
+REST-1426,HSR Layout,Chinese,332,3.9,7,Searching for Healthy
+REST-1427,Koramangala,South Indian,1314,4.4,1587,Crowded
+REST-1428,Indiranagar,Healthy/Salad,743,3.3,33,Bad Service
+REST-1429,Electronic City,Biryani,200,3.3,123,Bad Service
+REST-1430,Koramangala,Chinese,705,3.4,8,Bad Service
+REST-1431,Koramangala,Chinese,594,3.4,289,Bad Service
+REST-1432,Indiranagar,South Indian,890,3.0,70,Bad Service
+REST-1433,Jayanagar,South Indian,559,3.3,43,Bad Service
+REST-1434,Koramangala,South Indian,542,3.7,56,Average Experience
+REST-1435,Koramangala,Chinese,1051,3.4,48,Bad Service
+REST-1436,Koramangala,South Indian,1055,4.3,312,Average Experience
+REST-1437,HSR Layout,North Indian,310,3.6,34,Oily
+REST-1438,Whitefield,North Indian,671,3.2,19,"Bad Service, Slow Delivery"
+REST-1439,Jayanagar,Continental,200,4.3,678,Crowded
+REST-1440,Koramangala,Chinese,714,3.4,82,Bad Service
+REST-1441,Indiranagar,North Indian,636,4.0,100,Average Experience
+REST-1442,Koramangala,Biryani,739,3.6,51,Average Experience
+REST-1443,Electronic City,Chinese,669,4.3,1163,Crowded
+REST-1444,Whitefield,Biryani,200,3.1,127,"Bad Service, Slow Delivery"
+REST-1445,Koramangala,Continental,835,3.2,161,Bad Service
+REST-1446,Electronic City,Healthy/Salad,384,3.7,72,Average Experience
+REST-1447,Koramangala,Chinese,592,3.4,8,Bad Service
+REST-1448,Indiranagar,Chinese,590,3.4,30,Bad Service
+REST-1449,Jayanagar,Biryani,478,4.1,69,Average Experience
+REST-1450,Jayanagar,South Indian,736,3.6,11,Average Experience
+REST-1451,Koramangala,North Indian,726,4.2,1759,Crowded
+REST-1452,Indiranagar,Continental,1003,3.8,23,Average Experience
+REST-1453,Koramangala,Biryani,660,4.3,512,Crowded
+REST-1454,Jayanagar,Healthy/Salad,549,3.6,17,Average Experience
+REST-1455,Electronic City,Chinese,564,4.0,49,Average Experience
+REST-1456,HSR Layout,North Indian,200,4.0,128,Oily
+REST-1457,HSR Layout,South Indian,342,4.3,1519,Crowded
+REST-1458,Electronic City,North Indian,484,2.6,103,Bad Service
+REST-1459,Whitefield,Healthy/Salad,672,3.8,24,Slow Delivery
+REST-1460,Koramangala,Continental,435,3.7,37,Average Experience
+REST-1461,Indiranagar,South Indian,797,3.5,11,Average Experience
+REST-1462,Koramangala,Chinese,818,2.8,227,Bad Service
+REST-1463,HSR Layout,North Indian,677,3.7,24,Oily
+REST-1464,Whitefield,North Indian,658,2.6,263,"Bad Service, Slow Delivery"
+REST-1465,HSR Layout,Chinese,409,3.7,0,Average Experience
+REST-1466,Indiranagar,South Indian,880,3.5,32,Average Experience
+REST-1467,Jayanagar,Chinese,341,4.3,12,Average Experience
+REST-1468,Whitefield,North Indian,371,3.6,128,Slow Delivery
+REST-1469,Indiranagar,Healthy/Salad,873,3.0,119,Bad Service
+REST-1470,Electronic City,Continental,691,4.2,1315,Crowded
+REST-1471,Indiranagar,South Indian,711,4.2,1564,Crowded
+REST-1472,Indiranagar,Continental,705,3.7,17,Average Experience
+REST-1473,Koramangala,Biryani,1062,4.5,1291,Crowded
+REST-1474,HSR Layout,South Indian,495,4.0,13,Searching for Healthy
+REST-1475,HSR Layout,South Indian,1020,3.7,150,Searching for Healthy
+REST-1476,Koramangala,North Indian,381,3.9,17,Average Experience
+REST-1477,Electronic City,Continental,450,4.7,1572,Crowded
+REST-1478,Indiranagar,Continental,701,3.4,340,Bad Service
+REST-1479,HSR Layout,North Indian,576,3.9,176,Oily
+REST-1480,HSR Layout,Biryani,529,3.9,118,Average Experience
+REST-1481,Whitefield,Chinese,200,3.5,222,Slow Delivery
+REST-1482,Whitefield,South Indian,534,3.1,69,"Bad Service, Slow Delivery"
+REST-1483,HSR Layout,Continental,330,4.0,90,Average Experience
+REST-1484,Whitefield,Healthy/Salad,579,3.2,14,"Bad Service, Slow Delivery"
+REST-1485,Indiranagar,Healthy/Salad,925,4.7,854,Crowded
+REST-1486,Koramangala,Chinese,568,2.8,198,Bad Service
+REST-1487,Whitefield,Chinese,518,3.8,264,Slow Delivery
+REST-1488,Koramangala,Healthy/Salad,450,3.2,76,Bad Service
+REST-1489,Indiranagar,South Indian,984,2.5,71,Bad Service
+REST-1490,Koramangala,Chinese,1013,4.1,2058,Crowded
+REST-1491,Indiranagar,North Indian,814,3.6,72,Average Experience
+REST-1492,Whitefield,South Indian,308,2.6,39,"Bad Service, Slow Delivery"
+REST-1493,Koramangala,Biryani,791,3.6,25,Average Experience
+REST-1494,Indiranagar,Biryani,786,3.9,104,Average Experience
+REST-1495,Whitefield,Healthy/Salad,243,3.6,36,Slow Delivery
+REST-1496,HSR Layout,North Indian,547,3.8,101,Oily
+REST-1497,Koramangala,Continental,1077,3.6,135,Average Experience
+REST-1498,HSR Layout,South Indian,250,4.8,961,"Crowded, Searching for Healthy"
+REST-1499,Koramangala,North Indian,600,4.6,868,Crowded
+REST-1500,HSR Layout,South Indian,353,4.7,701,Crowded
+REST-1501,Whitefield,North Indian,550,3.7,199,Slow Delivery
+REST-1502,Whitefield,Continental,424,4.0,108,Slow Delivery
+REST-1503,Indiranagar,Biryani,1050,3.9,15,Average Experience
+REST-1504,Koramangala,South Indian,802,3.6,6,Average Experience
+REST-1505,Electronic City,South Indian,200,3.4,38,Bad Service
+REST-1506,Koramangala,Continental,797,3.3,5,Bad Service
+REST-1507,Koramangala,Chinese,726,4.6,927,Crowded
+REST-1508,HSR Layout,Chinese,272,4.9,830,Crowded
+REST-1509,Indiranagar,South Indian,722,4.5,2236,Crowded
+REST-1510,Electronic City,South Indian,512,3.7,122,Average Experience
+REST-1511,Koramangala,Healthy/Salad,676,4.1,112,Average Experience
+REST-1512,Indiranagar,Continental,499,3.6,204,Average Experience
+REST-1513,Electronic City,Chinese,347,4.7,134,Average Experience
+REST-1514,Koramangala,Biryani,1116,4.3,711,Crowded
+REST-1515,Koramangala,Continental,799,3.4,2,Bad Service
+REST-1516,Koramangala,North Indian,961,3.6,6,Average Experience
+REST-1517,Jayanagar,North Indian,761,3.0,0,Bad Service
+REST-1518,Whitefield,Healthy/Salad,960,3.9,38,Slow Delivery
+REST-1519,Koramangala,Healthy/Salad,489,4.8,829,Crowded
+REST-1520,Whitefield,Chinese,320,2.7,365,"Bad Service, Slow Delivery"
+REST-1521,Koramangala,North Indian,1203,2.9,188,Bad Service
+REST-1522,HSR Layout,South Indian,560,3.3,320,Bad Service
+REST-1523,Electronic City,Chinese,532,3.4,92,Bad Service
+REST-1524,HSR Layout,Healthy/Salad,311,3.5,379,Average Experience
+REST-1525,Jayanagar,Chinese,366,3.8,105,Average Experience
+REST-1526,Indiranagar,Biryani,952,4.1,6960,Crowded
+REST-1527,Electronic City,Chinese,289,3.5,154,Average Experience
+REST-1528,Electronic City,Biryani,494,4.2,237,Average Experience
+REST-1529,HSR Layout,Healthy/Salad,512,3.3,72,Bad Service
+REST-1530,Koramangala,Chinese,702,4.1,1506,Crowded
+REST-1531,Indiranagar,Healthy/Salad,577,3.9,236,Average Experience
+REST-1532,HSR Layout,North Indian,346,3.9,6,Oily
+REST-1533,Indiranagar,Healthy/Salad,858,4.7,263,Average Experience
+REST-1534,Indiranagar,Continental,663,4.4,358,Average Experience
+REST-1535,Electronic City,Biryani,360,4.3,234,Average Experience
+REST-1536,Whitefield,South Indian,432,3.2,26,"Bad Service, Slow Delivery"
+REST-1537,Indiranagar,Continental,450,3.7,127,Average Experience
+REST-1538,Koramangala,Biryani,647,3.6,12,Average Experience
+REST-1539,Whitefield,Chinese,369,3.8,175,Slow Delivery
+REST-1540,Koramangala,Continental,637,4.1,1678,Crowded
+REST-1541,Whitefield,Chinese,353,3.6,16,Slow Delivery
+REST-1542,Electronic City,Healthy/Salad,322,4.2,418,Average Experience
+REST-1543,Koramangala,North Indian,765,2.8,29,Bad Service
+REST-1544,Jayanagar,South Indian,292,3.4,36,Bad Service
+REST-1545,Whitefield,Biryani,375,4.8,357,Slow Delivery
+REST-1546,HSR Layout,North Indian,298,4.0,203,Oily
+REST-1547,Electronic City,North Indian,476,3.9,177,Average Experience
+REST-1548,Whitefield,North Indian,200,3.5,11,Slow Delivery
+REST-1549,Electronic City,Chinese,202,3.4,12,Bad Service
+REST-1550,HSR Layout,North Indian,484,3.6,162,Oily
+REST-1551,Whitefield,Biryani,211,2.8,85,"Bad Service, Slow Delivery"
+REST-1552,Indiranagar,Biryani,561,4.4,2752,Crowded
+REST-1553,Whitefield,Continental,542,3.2,10,"Bad Service, Slow Delivery"
+REST-1554,Koramangala,Healthy/Salad,853,3.5,26,Average Experience
+REST-1555,Koramangala,Chinese,954,4.1,555,Crowded
+REST-1556,Indiranagar,North Indian,957,3.5,52,Average Experience
+REST-1557,Whitefield,Biryani,498,3.3,4,"Bad Service, Slow Delivery"
+REST-1558,Indiranagar,Chinese,668,3.4,2,Bad Service
+REST-1559,Jayanagar,Chinese,200,3.2,130,Bad Service
+REST-1560,Koramangala,South Indian,707,4.3,1369,Crowded
+REST-1561,Whitefield,Chinese,407,3.8,66,Slow Delivery
+REST-1562,Koramangala,Healthy/Salad,810,4.2,2452,Crowded
+REST-1563,Whitefield,Chinese,393,3.5,106,Slow Delivery
+REST-1564,HSR Layout,Biryani,252,3.3,111,Bad Service
+REST-1565,Koramangala,North Indian,965,4.2,1468,Crowded
+REST-1566,Jayanagar,South Indian,462,4.0,73,Average Experience
+REST-1567,Electronic City,South Indian,571,4.7,150,Average Experience
+REST-1568,Electronic City,North Indian,200,4.1,354,Average Experience
+REST-1569,Koramangala,Chinese,453,3.8,81,Average Experience
+REST-1570,Koramangala,Biryani,934,3.3,14,Bad Service
+REST-1571,Jayanagar,Chinese,442,4.9,640,Crowded
+REST-1572,Jayanagar,Chinese,348,3.8,168,Average Experience
+REST-1573,Koramangala,Biryani,639,3.1,387,Bad Service
+REST-1574,Indiranagar,North Indian,919,4.5,303,Average Experience
+REST-1575,Koramangala,Healthy/Salad,979,4.2,4049,Crowded
+REST-1576,Whitefield,Healthy/Salad,243,3.1,160,"Bad Service, Slow Delivery"
+REST-1577,Indiranagar,Healthy/Salad,1075,3.6,106,Average Experience
+REST-1578,Whitefield,Chinese,476,4.1,60,Slow Delivery
+REST-1579,Koramangala,Biryani,1060,3.1,32,Bad Service
+REST-1580,Electronic City,Continental,418,3.3,71,Bad Service
+REST-1581,Jayanagar,Biryani,200,3.3,121,Bad Service
+REST-1582,Koramangala,North Indian,956,4.1,546,Crowded
+REST-1583,Koramangala,Biryani,994,3.9,43,Average Experience
+REST-1584,Koramangala,Healthy/Salad,815,4.7,1511,Crowded
+REST-1585,Indiranagar,Chinese,709,3.5,24,Average Experience
+REST-1586,Whitefield,Healthy/Salad,584,4.1,4245,"Crowded, Slow Delivery"
+REST-1587,Koramangala,Healthy/Salad,1032,4.0,182,Average Experience
+REST-1588,Electronic City,North Indian,441,3.6,168,Average Experience
+REST-1589,Indiranagar,Healthy/Salad,1102,3.7,27,Average Experience
+REST-1590,Koramangala,Biryani,796,4.1,304,Average Experience
+REST-1591,Koramangala,Chinese,813,4.0,308,Average Experience
+REST-1592,Koramangala,Biryani,804,3.8,26,Average Experience
+REST-1593,Koramangala,Continental,592,4.2,1469,Crowded
+REST-1594,Whitefield,South Indian,362,3.3,15,"Bad Service, Slow Delivery"
+REST-1595,Whitefield,North Indian,200,4.1,1703,"Crowded, Slow Delivery"
+REST-1596,HSR Layout,North Indian,216,3.7,20,Oily
+REST-1597,Koramangala,Continental,674,3.9,38,Average Experience
+REST-1598,Electronic City,Biryani,372,3.5,12,Average Experience
+REST-1599,Whitefield,Healthy/Salad,232,4.2,212,Slow Delivery
+REST-1600,Whitefield,Continental,215,3.9,109,Slow Delivery
+REST-1601,Indiranagar,South Indian,1146,4.0,152,Average Experience
+REST-1602,Indiranagar,Continental,902,3.6,40,Average Experience
+REST-1603,Koramangala,Healthy/Salad,419,3.3,13,Bad Service
+REST-1604,Whitefield,Healthy/Salad,348,4.1,637,"Crowded, Slow Delivery"
+REST-1605,Jayanagar,South Indian,200,3.5,48,Average Experience
+REST-1606,Koramangala,North Indian,1040,3.7,54,Average Experience
+REST-1607,Koramangala,Biryani,648,4.1,2216,Crowded
+REST-1608,Koramangala,Biryani,1153,4.1,3409,Crowded
+REST-1609,Indiranagar,Continental,550,3.4,87,Bad Service
+REST-1610,Indiranagar,Continental,752,4.9,1348,Crowded
+REST-1611,Electronic City,North Indian,571,4.2,422,Average Experience
+REST-1612,Koramangala,Biryani,621,4.3,3313,Crowded
+REST-1613,Electronic City,Continental,307,4.3,3260,Crowded
+REST-1614,Koramangala,Biryani,742,4.5,542,Crowded
+REST-1615,HSR Layout,Chinese,200,3.2,50,Bad Service
+REST-1616,Whitefield,Continental,207,3.9,5,Slow Delivery
+REST-1617,Electronic City,South Indian,398,4.5,2642,Crowded
+REST-1618,Koramangala,Healthy/Salad,908,3.8,14,Average Experience
+REST-1619,Koramangala,Biryani,1060,4.0,211,Average Experience
+REST-1620,Indiranagar,Continental,384,4.2,498,Average Experience
+REST-1621,HSR Layout,North Indian,417,3.1,111,"Bad Service, Oily, Searching for Healthy"
+REST-1622,Indiranagar,Chinese,744,4.2,755,Crowded
+REST-1623,Koramangala,Healthy/Salad,714,3.4,8,Bad Service
+REST-1624,Jayanagar,South Indian,539,3.7,80,Average Experience
+REST-1625,Koramangala,Healthy/Salad,1055,4.7,2600,Crowded
+REST-1626,Koramangala,South Indian,1078,4.2,271,Average Experience
+REST-1627,HSR Layout,Continental,827,3.7,130,Average Experience
+REST-1628,HSR Layout,North Indian,327,3.6,53,Oily
+REST-1629,Koramangala,Healthy/Salad,795,3.3,13,Bad Service
+REST-1630,Jayanagar,Continental,241,3.6,38,Average Experience
+REST-1631,Koramangala,Continental,751,4.0,75,Average Experience
+REST-1632,HSR Layout,Chinese,323,4.2,508,"Crowded, Searching for Healthy"
+REST-1633,Koramangala,South Indian,1005,4.0,222,Average Experience
+REST-1634,Jayanagar,Continental,200,3.3,29,Bad Service
+REST-1635,Whitefield,Continental,985,4.0,16,Slow Delivery
+REST-1636,Indiranagar,Chinese,705,4.1,187,Average Experience
+REST-1637,Electronic City,Healthy/Salad,362,3.0,1,Bad Service
+REST-1638,HSR Layout,Continental,697,4.2,179,Searching for Healthy
+REST-1639,HSR Layout,North Indian,408,4.7,372,Oily
+REST-1640,Koramangala,Biryani,1115,3.4,89,Bad Service
+REST-1641,Indiranagar,Biryani,1006,4.1,294,Average Experience
+REST-1642,Indiranagar,South Indian,1040,3.8,158,Average Experience
+REST-1643,Koramangala,Continental,1014,3.8,116,Average Experience
+REST-1644,Indiranagar,North Indian,597,3.1,6,Bad Service
+REST-1645,Whitefield,South Indian,302,4.2,198,Slow Delivery
+REST-1646,Whitefield,Chinese,234,3.4,47,"Bad Service, Slow Delivery"
+REST-1647,Koramangala,Biryani,740,3.8,83,Average Experience
+REST-1648,Koramangala,North Indian,841,4.1,680,Crowded
+REST-1649,Koramangala,Chinese,685,4.1,946,Crowded
+REST-1650,Jayanagar,Continental,723,4.7,1057,Crowded
+REST-1651,Electronic City,Biryani,200,3.1,27,Bad Service
+REST-1652,Koramangala,Healthy/Salad,900,3.6,193,Average Experience
+REST-1653,Electronic City,Biryani,698,3.4,78,Bad Service
+REST-1654,Electronic City,Healthy/Salad,490,3.7,97,Average Experience
+REST-1655,Koramangala,Biryani,804,4.3,2226,Crowded
+REST-1656,HSR Layout,North Indian,344,3.2,74,"Bad Service, Oily"
+REST-1657,Electronic City,Biryani,462,4.6,1116,Crowded
+REST-1658,Indiranagar,North Indian,674,3.8,37,Average Experience
+REST-1659,Koramangala,North Indian,1314,3.4,48,Bad Service
+REST-1660,HSR Layout,Biryani,200,3.0,368,Bad Service
+REST-1661,Koramangala,North Indian,1096,4.9,4360,Crowded
+REST-1662,Jayanagar,North Indian,261,4.0,46,Average Experience
+REST-1663,HSR Layout,North Indian,680,4.5,138,"Oily, Searching for Healthy"
+REST-1664,HSR Layout,South Indian,350,3.9,127,Searching for Healthy
+REST-1665,Jayanagar,South Indian,200,3.4,48,Bad Service
+REST-1666,Koramangala,Chinese,377,4.4,308,Average Experience
+REST-1667,Koramangala,North Indian,810,4.6,2520,Crowded
+REST-1668,Whitefield,Continental,227,3.4,56,"Bad Service, Slow Delivery"
+REST-1669,Koramangala,Continental,991,4.5,625,Crowded
+REST-1670,Jayanagar,Chinese,200,3.3,124,Bad Service
+REST-1671,HSR Layout,North Indian,200,4.5,3878,"Crowded, Oily, Searching for Healthy"
+REST-1672,Whitefield,North Indian,377,3.6,71,Slow Delivery
+REST-1673,Indiranagar,Biryani,797,3.9,348,Average Experience
+REST-1674,Electronic City,South Indian,440,3.9,130,Average Experience
+REST-1675,Whitefield,Continental,521,3.9,5,Slow Delivery
+REST-1676,Whitefield,South Indian,396,3.3,83,"Bad Service, Slow Delivery"
+REST-1677,Indiranagar,Biryani,555,3.5,152,Average Experience
+REST-1678,Whitefield,North Indian,656,3.7,29,Slow Delivery
+REST-1679,Koramangala,Healthy/Salad,817,4.0,58,Average Experience
+REST-1680,Koramangala,North Indian,860,4.1,338,Average Experience
+REST-1681,Koramangala,North Indian,835,2.9,25,Bad Service
+REST-1682,Jayanagar,Biryani,341,4.5,283,Average Experience
+REST-1683,Koramangala,Biryani,945,4.5,634,Crowded
+REST-1684,Whitefield,South Indian,507,4.0,101,Slow Delivery
+REST-1685,Indiranagar,Healthy/Salad,1042,3.2,202,Bad Service
+REST-1686,Whitefield,Chinese,355,4.3,155,Slow Delivery
+REST-1687,Indiranagar,Biryani,395,3.4,23,Bad Service
+REST-1688,Indiranagar,North Indian,235,4.0,59,Average Experience
+REST-1689,HSR Layout,North Indian,311,4.0,90,Oily
+REST-1690,Indiranagar,North Indian,469,3.6,2,Average Experience
+REST-1691,Koramangala,Biryani,650,3.6,47,Average Experience
+REST-1692,Indiranagar,North Indian,1195,3.6,48,Average Experience
+REST-1693,Whitefield,Biryani,286,3.9,22,Slow Delivery
+REST-1694,HSR Layout,North Indian,200,3.6,1,Oily
+REST-1695,Koramangala,South Indian,647,3.4,172,Bad Service
+REST-1696,Koramangala,Biryani,960,3.8,115,Average Experience
+REST-1697,HSR Layout,South Indian,661,3.0,54,Bad Service
+REST-1698,Indiranagar,North Indian,855,3.9,49,Average Experience
+REST-1699,Whitefield,South Indian,503,4.0,0,Slow Delivery
+REST-1700,Koramangala,South Indian,1056,3.5,25,Average Experience
+REST-1701,Whitefield,South Indian,200,2.8,51,"Bad Service, Slow Delivery"
+REST-1702,Koramangala,Healthy/Salad,965,3.8,37,Average Experience
+REST-1703,Jayanagar,South Indian,768,3.7,13,Average Experience
+REST-1704,Koramangala,North Indian,1008,3.2,683,"Crowded, Bad Service"
+REST-1705,Jayanagar,North Indian,416,2.1,70,Bad Service
+REST-1706,Jayanagar,South Indian,200,3.2,9,Bad Service
+REST-1707,Whitefield,North Indian,438,3.7,9,Slow Delivery
+REST-1708,Koramangala,Healthy/Salad,985,3.6,24,Average Experience
+REST-1709,HSR Layout,South Indian,423,4.1,2699,Crowded
+REST-1710,Koramangala,Healthy/Salad,1059,4.2,345,Average Experience
+REST-1711,Whitefield,Chinese,200,3.4,44,"Bad Service, Slow Delivery"
+REST-1712,Electronic City,South Indian,513,4.5,1345,Crowded
+REST-1713,Indiranagar,North Indian,427,4.0,114,Average Experience
+REST-1714,Koramangala,Healthy/Salad,698,4.0,17,Average Experience
+REST-1715,Koramangala,Chinese,1006,4.2,720,Crowded
+REST-1716,Jayanagar,Chinese,200,3.3,87,Bad Service
+REST-1717,Whitefield,Continental,200,3.2,16,"Bad Service, Slow Delivery"
+REST-1718,HSR Layout,North Indian,734,4.4,53,Oily
+REST-1719,Whitefield,Chinese,931,3.2,10,"Bad Service, Slow Delivery"
+REST-1720,HSR Layout,South Indian,249,4.0,57,Average Experience
+REST-1721,HSR Layout,North Indian,415,3.4,284,"Bad Service, Oily"
+REST-1722,Indiranagar,North Indian,689,4.6,344,Average Experience
+REST-1723,Indiranagar,Continental,733,3.8,55,Average Experience
+REST-1724,Indiranagar,Biryani,900,2.6,5,Bad Service
+REST-1725,Koramangala,Chinese,740,4.3,1354,Crowded
+REST-1726,HSR Layout,Chinese,347,4.1,261,Average Experience
+REST-1727,HSR Layout,Chinese,526,4.3,226,Average Experience
+REST-1728,Indiranagar,Continental,626,4.5,146,Average Experience
+REST-1729,Whitefield,North Indian,518,3.0,94,"Bad Service, Slow Delivery"
+REST-1730,Jayanagar,Continental,406,3.3,467,Bad Service
+REST-1731,HSR Layout,Biryani,200,4.4,1536,Crowded
+REST-1732,Koramangala,Healthy/Salad,1138,2.8,121,Bad Service
+REST-1733,HSR Layout,Healthy/Salad,378,3.4,47,Bad Service
+REST-1734,Koramangala,Biryani,781,3.7,104,Average Experience
+REST-1735,Indiranagar,North Indian,624,4.2,75,Average Experience
+REST-1736,Indiranagar,Continental,1132,3.7,57,Average Experience
+REST-1737,Koramangala,Continental,839,3.3,116,Bad Service
+REST-1738,Whitefield,Biryani,200,4.5,1097,"Crowded, Slow Delivery"
+REST-1739,Whitefield,Biryani,238,3.3,159,"Bad Service, Slow Delivery"
+REST-1740,Indiranagar,Chinese,988,3.3,16,Bad Service
+REST-1741,Jayanagar,South Indian,409,3.2,25,Bad Service
+REST-1742,Koramangala,North Indian,843,3.7,14,Average Experience
+REST-1743,Koramangala,Healthy/Salad,681,4.3,2145,Crowded
+REST-1744,HSR Layout,North Indian,616,3.6,33,Oily
+REST-1745,Indiranagar,Continental,461,3.9,36,Average Experience
+REST-1746,Whitefield,Biryani,485,4.0,22,Slow Delivery
+REST-1747,Electronic City,South Indian,202,3.8,64,Average Experience
+REST-1748,HSR Layout,Chinese,200,3.1,41,Bad Service
+REST-1749,HSR Layout,North Indian,400,3.8,35,Oily
+REST-1750,Indiranagar,Chinese,964,3.8,377,Average Experience
+REST-1751,HSR Layout,Continental,285,3.3,41,Bad Service
+REST-1752,Koramangala,Continental,754,3.6,31,Average Experience
+REST-1753,Indiranagar,Healthy/Salad,774,4.1,1236,Crowded
+REST-1754,Koramangala,Chinese,588,3.8,62,Average Experience
+REST-1755,Electronic City,Biryani,380,3.9,29,Average Experience
+REST-1756,HSR Layout,North Indian,607,3.2,29,"Bad Service, Oily, Searching for Healthy"
+REST-1757,Indiranagar,Healthy/Salad,1079,4.0,6,Average Experience
+REST-1758,Whitefield,North Indian,579,4.1,2834,"Crowded, Slow Delivery"
+REST-1759,Indiranagar,Continental,825,4.3,4290,Crowded
+REST-1760,Koramangala,Chinese,756,3.6,182,Average Experience
+REST-1761,Indiranagar,Biryani,597,3.2,112,Bad Service
+REST-1762,Koramangala,Continental,586,2.9,180,Bad Service
+REST-1763,Whitefield,Chinese,603,4.0,166,Slow Delivery
+REST-1764,HSR Layout,Biryani,330,4.4,683,"Crowded, Searching for Healthy"
+REST-1765,Koramangala,Healthy/Salad,753,4.8,780,Crowded
+REST-1766,HSR Layout,Chinese,304,4.3,1552,"Crowded, Searching for Healthy"
+REST-1767,Indiranagar,Chinese,623,3.5,217,Average Experience
+REST-1768,Indiranagar,Biryani,759,4.5,5,Average Experience
+REST-1769,Electronic City,Healthy/Salad,433,4.6,768,Crowded
+REST-1770,HSR Layout,South Indian,200,3.7,30,Average Experience
+REST-1771,HSR Layout,North Indian,376,3.7,187,Oily
+REST-1772,Koramangala,Healthy/Salad,1089,3.2,56,Bad Service
+REST-1773,HSR Layout,Chinese,290,4.2,821,"Crowded, Searching for Healthy"
+REST-1774,Koramangala,Continental,1172,3.1,19,Bad Service
+REST-1775,HSR Layout,South Indian,577,4.2,1135,"Crowded, Searching for Healthy"
+REST-1776,Indiranagar,Biryani,744,4.8,490,Average Experience
+REST-1777,Koramangala,North Indian,1073,3.8,50,Average Experience
+REST-1778,Jayanagar,North Indian,371,4.2,203,Average Experience
+REST-1779,Koramangala,Chinese,834,3.3,131,Bad Service
+REST-1780,Koramangala,Biryani,885,4.2,405,Average Experience
+REST-1781,Koramangala,Biryani,796,3.8,106,Average Experience
+REST-1782,HSR Layout,North Indian,786,4.9,760,"Crowded, Oily, Searching for Healthy"
+REST-1783,Indiranagar,Continental,603,3.0,244,Bad Service
+REST-1784,HSR Layout,Chinese,285,3.9,65,Average Experience
+REST-1785,Indiranagar,Healthy/Salad,859,3.6,153,Average Experience
+REST-1786,Whitefield,Healthy/Salad,441,3.7,201,Slow Delivery
+REST-1787,Indiranagar,Chinese,974,3.6,79,Average Experience
+REST-1788,Koramangala,Healthy/Salad,742,3.7,77,Average Experience
+REST-1789,Koramangala,North Indian,870,3.6,164,Average Experience
+REST-1790,Indiranagar,South Indian,462,3.3,137,Bad Service
+REST-1791,HSR Layout,Chinese,200,4.0,77,Searching for Healthy
+REST-1792,Koramangala,Continental,815,3.9,35,Average Experience
+REST-1793,HSR Layout,Chinese,200,3.4,87,Bad Service
+REST-1794,Jayanagar,Healthy/Salad,260,3.5,174,Average Experience
+REST-1795,Indiranagar,Biryani,897,4.1,4673,Crowded
+REST-1796,Koramangala,Chinese,675,4.0,229,Average Experience
+REST-1797,Indiranagar,Healthy/Salad,716,3.8,204,Average Experience
+REST-1798,Koramangala,Continental,736,3.3,201,Bad Service
+REST-1799,HSR Layout,South Indian,562,4.4,148,Average Experience
+REST-1800,Koramangala,Continental,927,3.6,169,Average Experience
+REST-1801,Koramangala,South Indian,866,3.8,196,Average Experience
+REST-1802,HSR Layout,South Indian,588,3.6,70,Average Experience
+REST-1803,Jayanagar,South Indian,200,4.5,1840,Crowded
+REST-1804,Indiranagar,Chinese,1134,4.0,78,Average Experience
+REST-1805,Electronic City,South Indian,479,3.8,36,Average Experience
+REST-1806,Indiranagar,Healthy/Salad,982,4.1,1682,Crowded
+REST-1807,HSR Layout,Chinese,200,4.4,643,Crowded
+REST-1808,Indiranagar,Chinese,904,3.4,6,Bad Service
+REST-1809,Electronic City,South Indian,461,3.9,116,Average Experience
+REST-1810,Indiranagar,Healthy/Salad,764,4.3,4412,Crowded
+REST-1811,Jayanagar,North Indian,200,3.8,18,Average Experience
+REST-1812,HSR Layout,Continental,347,3.7,198,Average Experience
+REST-1813,Koramangala,Continental,499,4.6,4,Average Experience
+REST-1814,Indiranagar,North Indian,722,3.4,17,Bad Service
+REST-1815,Electronic City,South Indian,680,3.7,49,Average Experience
+REST-1816,HSR Layout,Continental,417,4.2,1185,Crowded
+REST-1817,Indiranagar,Continental,415,3.2,374,Bad Service
+REST-1818,Indiranagar,Continental,645,3.7,70,Average Experience
+REST-1819,Koramangala,Healthy/Salad,994,3.7,133,Average Experience
+REST-1820,Jayanagar,South Indian,411,4.0,104,Average Experience
+REST-1821,Indiranagar,Biryani,531,4.5,508,Crowded
+REST-1822,Indiranagar,Continental,674,3.6,172,Average Experience
+REST-1823,Koramangala,Continental,616,4.3,308,Average Experience
+REST-1824,Koramangala,Continental,594,4.0,26,Average Experience
+REST-1825,Electronic City,North Indian,604,3.5,575,Crowded
+REST-1826,Indiranagar,Chinese,792,3.6,71,Average Experience
+REST-1827,Indiranagar,North Indian,658,3.3,37,Bad Service
+REST-1828,Whitefield,Biryani,200,4.1,74,Slow Delivery
+REST-1829,Indiranagar,Biryani,822,4.0,56,Average Experience
+REST-1830,Koramangala,Biryani,678,3.7,7,Average Experience
+REST-1831,Whitefield,Biryani,311,3.3,88,"Bad Service, Slow Delivery"
+REST-1832,Koramangala,Healthy/Salad,1065,3.3,20,Bad Service
+REST-1833,Whitefield,South Indian,318,4.0,279,Slow Delivery
+REST-1834,Indiranagar,Healthy/Salad,709,4.6,442,Average Experience
+REST-1835,Indiranagar,North Indian,649,3.7,7,Average Experience
+REST-1836,Jayanagar,Healthy/Salad,203,4.1,141,Average Experience
+REST-1837,Electronic City,Healthy/Salad,663,3.9,6,Average Experience
+REST-1838,Koramangala,Biryani,1038,4.3,149,Average Experience
+REST-1839,Electronic City,Chinese,200,3.3,114,Bad Service
+REST-1840,HSR Layout,North Indian,237,4.4,431,"Oily, Searching for Healthy"
+REST-1841,Jayanagar,Biryani,513,3.8,173,Average Experience
+REST-1842,Koramangala,Healthy/Salad,555,3.9,42,Average Experience
+REST-1843,Indiranagar,Biryani,611,3.5,3,Average Experience
+REST-1844,Electronic City,Healthy/Salad,200,3.4,63,Bad Service
+REST-1845,Indiranagar,Biryani,919,4.1,1084,Crowded
+REST-1846,HSR Layout,South Indian,642,3.9,103,Average Experience
+REST-1847,Whitefield,Continental,441,3.0,39,"Bad Service, Slow Delivery"
+REST-1848,HSR Layout,North Indian,485,4.2,1365,"Crowded, Oily"
+REST-1849,Whitefield,North Indian,485,3.4,232,"Bad Service, Slow Delivery"
+REST-1850,Indiranagar,Chinese,879,4.2,1163,Crowded
+REST-1851,Jayanagar,Continental,527,3.4,115,Bad Service
+REST-1852,HSR Layout,North Indian,580,3.5,18,Oily
+REST-1853,HSR Layout,Biryani,624,3.3,60,Bad Service
+REST-1854,Electronic City,North Indian,300,3.7,68,Average Experience
+REST-1855,Whitefield,Biryani,208,3.4,98,"Bad Service, Slow Delivery"
+REST-1856,Indiranagar,Continental,631,4.1,392,Average Experience
+REST-1857,HSR Layout,North Indian,200,4.0,138,Oily
+REST-1858,Whitefield,Biryani,416,3.8,78,Slow Delivery
+REST-1859,Koramangala,Continental,888,4.2,510,Crowded
+REST-1860,Koramangala,Healthy/Salad,825,4.3,225,Average Experience
+REST-1861,HSR Layout,Continental,398,3.5,137,Searching for Healthy
+REST-1862,Jayanagar,Healthy/Salad,316,4.2,1574,Crowded
+REST-1863,Jayanagar,South Indian,433,4.3,298,Average Experience
+REST-1864,Koramangala,Chinese,786,3.4,25,Bad Service
+REST-1865,Koramangala,Healthy/Salad,693,3.9,651,Crowded
+REST-1866,Jayanagar,North Indian,897,3.1,102,Bad Service
+REST-1867,HSR Layout,North Indian,477,3.3,13,"Bad Service, Oily"
+REST-1868,Electronic City,Continental,274,4.1,1065,Crowded
+REST-1869,Koramangala,Healthy/Salad,390,4.2,1031,Crowded
+REST-1870,Electronic City,Continental,457,3.0,2,Bad Service
+REST-1871,Koramangala,Continental,806,3.6,91,Average Experience
+REST-1872,Indiranagar,North Indian,1102,3.4,0,Bad Service
+REST-1873,Electronic City,Biryani,504,3.4,139,Bad Service
+REST-1874,Indiranagar,Continental,823,3.4,66,Bad Service
+REST-1875,HSR Layout,Biryani,390,4.0,69,Average Experience
+REST-1876,Electronic City,North Indian,211,4.4,436,Average Experience
+REST-1877,Electronic City,Continental,246,4.3,121,Average Experience
+REST-1878,Koramangala,South Indian,1155,4.7,27,Average Experience
+REST-1879,Koramangala,Biryani,959,4.7,612,Crowded
+REST-1880,Indiranagar,Chinese,463,4.3,89,Average Experience
+REST-1881,Indiranagar,Continental,757,4.5,7615,Crowded
+REST-1882,HSR Layout,Healthy/Salad,738,4.0,52,Average Experience
+REST-1883,Indiranagar,Chinese,1149,4.0,128,Average Experience
+REST-1884,Indiranagar,Biryani,767,3.5,76,Average Experience
+REST-1885,Whitefield,Healthy/Salad,610,4.9,425,Slow Delivery
+REST-1886,Jayanagar,Continental,579,4.5,1234,Crowded
+REST-1887,Indiranagar,Biryani,605,3.2,129,Bad Service
+REST-1888,Electronic City,Chinese,533,4.1,269,Average Experience
+REST-1889,Electronic City,Continental,695,4.0,36,Average Experience
+REST-1890,Jayanagar,South Indian,729,4.0,69,Average Experience
+REST-1891,Koramangala,Biryani,668,4.5,1454,Crowded
+REST-1892,Jayanagar,Chinese,459,4.6,1211,Crowded
+REST-1893,HSR Layout,North Indian,623,3.4,153,"Bad Service, Oily, Searching for Healthy"
+REST-1894,HSR Layout,Chinese,582,3.9,40,Average Experience
+REST-1895,Whitefield,Healthy/Salad,713,4.3,2744,"Crowded, Slow Delivery"
+REST-1896,Indiranagar,North Indian,444,4.8,334,Average Experience
+REST-1897,Whitefield,North Indian,579,3.2,1,"Bad Service, Slow Delivery"
+REST-1898,Koramangala,Healthy/Salad,795,4.9,974,Crowded
+REST-1899,Whitefield,Biryani,797,3.7,61,Slow Delivery
+REST-1900,Whitefield,South Indian,216,3.8,42,Slow Delivery
+REST-1901,Koramangala,South Indian,830,4.5,1028,Crowded
+REST-1902,Koramangala,South Indian,722,3.9,142,Average Experience
+REST-1903,Whitefield,Continental,622,4.4,823,"Crowded, Slow Delivery"
+REST-1904,Whitefield,North Indian,271,4.6,975,"Crowded, Slow Delivery"
+REST-1905,Jayanagar,Continental,584,4.4,1008,Crowded
+REST-1906,Indiranagar,North Indian,560,3.2,68,Bad Service
+REST-1907,Koramangala,Biryani,385,4.3,86,Average Experience
+REST-1908,Jayanagar,North Indian,277,3.8,15,Average Experience
+REST-1909,Jayanagar,North Indian,254,3.5,219,Average Experience
+REST-1910,Whitefield,Healthy/Salad,200,3.9,116,Slow Delivery
+REST-1911,Indiranagar,Biryani,676,4.6,133,Average Experience
+REST-1912,Jayanagar,Biryani,229,4.1,48,Average Experience
+REST-1913,Whitefield,Chinese,200,3.7,28,Slow Delivery
+REST-1914,HSR Layout,Healthy/Salad,556,4.2,390,Average Experience
+REST-1915,Jayanagar,North Indian,686,3.9,157,Average Experience
+REST-1916,Electronic City,South Indian,402,4.0,84,Average Experience
+REST-1917,Electronic City,South Indian,646,3.0,48,Bad Service
+REST-1918,Indiranagar,North Indian,1188,4.5,858,Crowded
+REST-1919,Indiranagar,Biryani,1122,3.9,140,Average Experience
+REST-1920,Indiranagar,Biryani,692,4.4,3101,Crowded
+REST-1921,Koramangala,Healthy/Salad,675,4.5,1301,Crowded
+REST-1922,HSR Layout,South Indian,613,3.6,143,Searching for Healthy
+REST-1923,Whitefield,Healthy/Salad,237,3.7,292,Slow Delivery
+REST-1924,Indiranagar,Continental,1174,3.1,47,Bad Service
+REST-1925,Koramangala,Biryani,999,4.6,705,Crowded
+REST-1926,Electronic City,Chinese,403,3.1,27,Bad Service
+REST-1927,Electronic City,Continental,723,4.3,427,Average Experience
+REST-1928,Koramangala,North Indian,727,3.5,73,Average Experience
+REST-1929,Electronic City,North Indian,577,4.2,794,Crowded
+REST-1930,Whitefield,South Indian,200,3.6,69,Slow Delivery
+REST-1931,Indiranagar,Chinese,569,4.4,1404,Crowded
+REST-1932,Koramangala,Chinese,792,4.5,1775,Crowded
+REST-1933,Whitefield,Healthy/Salad,532,3.6,113,Slow Delivery
+REST-1934,Indiranagar,Healthy/Salad,1129,3.6,50,Average Experience
+REST-1935,Koramangala,Continental,618,4.3,1409,Crowded
+REST-1936,Whitefield,Biryani,553,3.4,8,"Bad Service, Slow Delivery"
+REST-1937,HSR Layout,South Indian,792,3.6,316,Average Experience
+REST-1938,Indiranagar,Chinese,907,3.6,33,Average Experience
+REST-1939,Electronic City,Continental,402,3.9,158,Average Experience
+REST-1940,Whitefield,North Indian,200,2.6,166,"Bad Service, Slow Delivery"
+REST-1941,Indiranagar,Continental,768,3.5,181,Average Experience
+REST-1942,Indiranagar,Continental,877,4.4,925,Crowded
+REST-1943,HSR Layout,South Indian,200,3.9,279,Average Experience
+REST-1944,Electronic City,Healthy/Salad,200,4.0,34,Average Experience
+REST-1945,Koramangala,Healthy/Salad,693,3.7,2,Average Experience
+REST-1946,Indiranagar,North Indian,586,4.3,929,Crowded
+REST-1947,Whitefield,North Indian,209,4.8,659,"Crowded, Slow Delivery"
+REST-1948,Whitefield,North Indian,200,3.0,7,"Bad Service, Slow Delivery"
+REST-1949,Koramangala,Chinese,739,3.7,47,Average Experience
+REST-1950,Koramangala,Biryani,627,3.1,24,Bad Service
+REST-1951,Electronic City,North Indian,322,3.8,47,Average Experience
+REST-1952,Electronic City,Chinese,537,3.7,1,Average Experience
+REST-1953,Jayanagar,South Indian,426,4.5,1516,Crowded
+REST-1954,Whitefield,Healthy/Salad,315,4.3,677,"Crowded, Slow Delivery"
+REST-1955,Whitefield,North Indian,310,4.1,689,"Crowded, Slow Delivery"
+REST-1956,Indiranagar,Biryani,602,2.6,66,Bad Service
+REST-1957,Koramangala,Continental,765,3.2,22,Bad Service
+REST-1958,Jayanagar,South Indian,536,3.6,234,Average Experience
+REST-1959,HSR Layout,Healthy/Salad,617,4.6,139,Average Experience
+REST-1960,Koramangala,Chinese,1004,4.2,927,Crowded
+REST-1961,Koramangala,Continental,654,3.5,7,Average Experience
+REST-1962,Koramangala,Biryani,643,3.6,211,Average Experience
+REST-1963,Koramangala,Continental,706,3.7,437,Average Experience
+REST-1964,HSR Layout,North Indian,398,3.6,81,Oily
+REST-1965,Koramangala,South Indian,759,3.4,228,Bad Service
+REST-1966,Whitefield,North Indian,498,3.3,581,"Crowded, Bad Service, Slow Delivery"
+REST-1967,Indiranagar,Continental,797,3.8,37,Average Experience
+REST-1968,Jayanagar,Biryani,200,4.3,4935,Crowded
+REST-1969,Jayanagar,Healthy/Salad,200,3.0,227,Bad Service
+REST-1970,Indiranagar,Biryani,1074,3.6,47,Average Experience
+REST-1971,HSR Layout,Biryani,200,4.0,151,Searching for Healthy
+REST-1972,Electronic City,North Indian,704,3.7,52,Average Experience
+REST-1973,Jayanagar,Biryani,269,3.4,44,Bad Service
+REST-1974,Indiranagar,Biryani,1101,3.7,128,Average Experience
+REST-1975,Indiranagar,Continental,686,3.3,33,Bad Service
+REST-1976,Koramangala,North Indian,822,4.3,2754,Crowded
+REST-1977,Koramangala,Continental,869,3.6,81,Average Experience
+REST-1978,Whitefield,Biryani,662,3.4,88,"Bad Service, Slow Delivery"
+REST-1979,HSR Layout,Biryani,629,3.3,30,Bad Service
+REST-1980,Whitefield,Healthy/Salad,572,3.8,14,Slow Delivery
+REST-1981,Koramangala,Continental,864,3.6,28,Average Experience
+REST-1982,Whitefield,Biryani,200,3.4,343,"Bad Service, Slow Delivery"
+REST-1983,Whitefield,Biryani,292,3.5,117,Slow Delivery
+REST-1984,Whitefield,Continental,200,4.0,4,Slow Delivery
+REST-1985,Indiranagar,South Indian,762,4.1,447,Average Experience
+REST-1986,Whitefield,Biryani,200,3.3,26,"Bad Service, Slow Delivery"
+REST-1987,Whitefield,North Indian,262,3.5,8,Slow Delivery
+REST-1988,Electronic City,South Indian,661,4.9,58,Average Experience
+REST-1989,Whitefield,South Indian,1063,3.5,79,Slow Delivery
+REST-1990,Koramangala,South Indian,659,4.7,652,Crowded
+REST-1991,Koramangala,Chinese,861,4.2,962,Crowded
+REST-1992,Jayanagar,South Indian,313,3.5,62,Average Experience
+REST-1993,Koramangala,Continental,838,3.8,49,Average Experience
+REST-1994,Koramangala,Chinese,595,4.9,494,Average Experience
+REST-1995,Electronic City,North Indian,366,3.7,32,Average Experience
+REST-1996,Indiranagar,Continental,1222,4.9,2136,Crowded
+REST-1997,Koramangala,North Indian,728,4.4,119,Average Experience
+REST-1998,Electronic City,Biryani,200,4.1,861,Crowded
+REST-1999,Koramangala,Biryani,774,3.9,51,Average Experience
+REST-2000,Jayanagar,North Indian,200,3.9,28,Average Experience
+REST-2001,Whitefield,Healthy/Salad,283,3.7,70,Slow Delivery
+REST-2002,HSR Layout,Chinese,380,3.9,101,Average Experience
+REST-2003,Indiranagar,Chinese,766,3.7,25,Average Experience
+REST-2004,Koramangala,Biryani,932,3.4,14,Bad Service
+REST-2005,Koramangala,Chinese,694,4.2,315,Average Experience
+REST-2006,Indiranagar,South Indian,356,3.5,140,Average Experience
+REST-2007,HSR Layout,Chinese,429,3.7,25,Average Experience
+REST-2008,Koramangala,South Indian,798,4.0,59,Average Experience
+REST-2009,Whitefield,Continental,438,4.4,530,"Crowded, Slow Delivery"
+REST-2010,HSR Layout,Biryani,300,4.3,4024,Crowded
+REST-2011,Electronic City,Healthy/Salad,433,4.7,742,Crowded
+REST-2012,Electronic City,Continental,393,3.7,11,Average Experience
+REST-2013,HSR Layout,Chinese,479,3.3,107,Bad Service
+REST-2014,Indiranagar,Continental,915,4.0,95,Average Experience
+REST-2015,Indiranagar,North Indian,945,3.9,73,Average Experience
+REST-2016,HSR Layout,North Indian,440,3.6,12,Oily
+REST-2017,Whitefield,Continental,345,3.6,71,Slow Delivery
+REST-2018,Indiranagar,Chinese,1051,3.8,76,Average Experience
+REST-2019,Koramangala,Biryani,888,4.8,704,Crowded
+REST-2020,Indiranagar,Biryani,1017,3.4,232,Bad Service
+REST-2021,Indiranagar,Chinese,846,3.3,9,Bad Service
+REST-2022,Electronic City,Continental,554,3.2,119,Bad Service
+REST-2023,Indiranagar,Healthy/Salad,1270,4.1,1784,Crowded
+REST-2024,Whitefield,South Indian,1051,3.8,37,Slow Delivery
+REST-2025,Whitefield,South Indian,834,3.6,8,Slow Delivery
+REST-2026,Koramangala,South Indian,788,3.5,285,Average Experience
+REST-2027,HSR Layout,North Indian,315,2.9,9,"Bad Service, Oily"
+REST-2028,Koramangala,Healthy/Salad,662,3.8,25,Average Experience
+REST-2029,Indiranagar,South Indian,1244,4.1,84,Average Experience
+REST-2030,HSR Layout,North Indian,320,3.3,17,"Bad Service, Oily"
+REST-2031,Electronic City,Continental,770,4.3,159,Average Experience
+REST-2032,Koramangala,North Indian,971,3.8,41,Average Experience
+REST-2033,Jayanagar,North Indian,200,3.2,8,Bad Service
+REST-2034,Indiranagar,Biryani,1124,3.5,229,Average Experience
+REST-2035,Indiranagar,Chinese,542,4.0,53,Average Experience
+REST-2036,Koramangala,Biryani,852,2.9,19,Bad Service
+REST-2037,Whitefield,Chinese,245,3.3,181,"Bad Service, Slow Delivery"
+REST-2038,Electronic City,Chinese,427,4.9,473,Average Experience
+REST-2039,Koramangala,Biryani,723,3.9,103,Average Experience
+REST-2040,Koramangala,Chinese,831,3.6,41,Average Experience
+REST-2041,Electronic City,North Indian,440,3.7,274,Average Experience
+REST-2042,Koramangala,Chinese,962,3.9,274,Average Experience
+REST-2043,Koramangala,Chinese,701,4.0,90,Average Experience
+REST-2044,Koramangala,Chinese,1017,4.2,6319,Crowded
+REST-2045,Koramangala,Healthy/Salad,1302,4.0,98,Average Experience
+REST-2046,Whitefield,Biryani,435,4.7,522,"Crowded, Slow Delivery"
+REST-2047,Whitefield,Continental,493,3.8,17,Slow Delivery
+REST-2048,Electronic City,North Indian,461,4.7,39,Average Experience
+REST-2049,Jayanagar,North Indian,490,4.3,168,Average Experience
+REST-2050,Jayanagar,Continental,425,3.9,1,Average Experience
+REST-2051,Koramangala,Chinese,794,3.9,201,Average Experience
+REST-2052,Indiranagar,Healthy/Salad,468,3.7,9,Average Experience
+REST-2053,Koramangala,Continental,1038,3.7,164,Average Experience
+REST-2054,Jayanagar,Biryani,767,4.3,1713,Crowded
+REST-2055,Whitefield,Healthy/Salad,200,2.7,3,"Bad Service, Slow Delivery"
+REST-2056,Electronic City,Healthy/Salad,379,3.6,96,Average Experience
+REST-2057,Indiranagar,South Indian,993,3.9,62,Average Experience
+REST-2058,Indiranagar,Chinese,895,3.4,85,Bad Service
+REST-2059,Koramangala,North Indian,853,3.8,103,Average Experience
+REST-2060,Koramangala,Continental,1075,3.8,11,Average Experience
+REST-2061,Koramangala,Chinese,864,3.8,336,Average Experience
+REST-2062,Koramangala,Continental,1130,3.8,83,Average Experience
+REST-2063,Koramangala,Chinese,656,4.0,286,Average Experience
+REST-2064,Indiranagar,North Indian,1009,3.7,6,Average Experience
+REST-2065,Koramangala,Continental,953,3.7,25,Average Experience
+REST-2066,Indiranagar,South Indian,791,3.2,77,Bad Service
+REST-2067,Jayanagar,Continental,461,3.5,26,Average Experience
+REST-2068,Jayanagar,North Indian,490,4.3,690,Crowded
+REST-2069,Electronic City,Continental,200,3.4,7,Bad Service
+REST-2070,Jayanagar,North Indian,686,4.1,1777,Crowded
+REST-2071,Jayanagar,Healthy/Salad,712,4.1,26,Average Experience
+REST-2072,HSR Layout,Chinese,402,3.9,83,Average Experience
+REST-2073,Jayanagar,Healthy/Salad,494,3.8,270,Average Experience
+REST-2074,Koramangala,Chinese,560,3.1,375,Bad Service
+REST-2075,Koramangala,Chinese,948,4.9,693,Crowded
+REST-2076,Indiranagar,Chinese,661,4.0,66,Average Experience
+REST-2077,Koramangala,Healthy/Salad,616,4.1,3030,Crowded
+REST-2078,Electronic City,North Indian,490,3.7,9,Average Experience
+REST-2079,HSR Layout,Continental,200,3.7,20,Average Experience
+REST-2080,Koramangala,North Indian,887,3.2,58,Bad Service
+REST-2081,Whitefield,Biryani,295,3.2,59,"Bad Service, Slow Delivery"
+REST-2082,Koramangala,Biryani,766,3.6,50,Average Experience
+REST-2083,Electronic City,South Indian,377,3.8,1,Average Experience
+REST-2084,Jayanagar,North Indian,200,4.0,79,Average Experience
+REST-2085,Jayanagar,Healthy/Salad,460,3.6,1,Average Experience
+REST-2086,Koramangala,South Indian,762,3.6,1,Average Experience
+REST-2087,Indiranagar,Chinese,1153,4.0,13,Average Experience
+REST-2088,Jayanagar,Chinese,417,3.9,48,Average Experience
+REST-2089,Indiranagar,Healthy/Salad,441,4.1,14,Average Experience
+REST-2090,Koramangala,North Indian,681,3.1,225,Bad Service
+REST-2091,Whitefield,Healthy/Salad,351,3.6,76,Slow Delivery
+REST-2092,HSR Layout,North Indian,200,3.5,85,Oily
+REST-2093,HSR Layout,North Indian,303,4.3,277,Oily
+REST-2094,HSR Layout,North Indian,361,3.2,13,"Bad Service, Oily, Searching for Healthy"
+REST-2095,Whitefield,Continental,244,3.8,73,Slow Delivery
+REST-2096,Electronic City,South Indian,615,4.0,0,Average Experience
+REST-2097,Koramangala,South Indian,925,3.5,414,Average Experience
+REST-2098,Indiranagar,Healthy/Salad,566,2.4,90,Bad Service
+REST-2099,Koramangala,North Indian,1112,2.8,147,Bad Service
+REST-2100,Indiranagar,North Indian,749,4.7,597,Crowded
+REST-2101,Jayanagar,North Indian,546,4.1,999,Crowded
+REST-2102,HSR Layout,Chinese,415,3.4,48,"Bad Service, Searching for Healthy"
+REST-2103,HSR Layout,Biryani,464,3.4,12,Bad Service
+REST-2104,Whitefield,North Indian,371,3.3,61,"Bad Service, Slow Delivery"
+REST-2105,Koramangala,Healthy/Salad,728,4.6,311,Average Experience
+REST-2106,Koramangala,Continental,837,3.3,56,Bad Service
+REST-2107,Indiranagar,Chinese,817,4.3,2558,Crowded
+REST-2108,Koramangala,Chinese,629,4.1,873,Crowded
+REST-2109,HSR Layout,Healthy/Salad,529,3.4,32,Bad Service
+REST-2110,Indiranagar,South Indian,757,3.0,111,Bad Service
+REST-2111,Koramangala,North Indian,795,3.5,172,Average Experience
+REST-2112,Whitefield,Continental,609,4.9,1805,"Crowded, Slow Delivery"
+REST-2113,Koramangala,Healthy/Salad,1184,4.4,326,Average Experience
+REST-2114,Whitefield,North Indian,200,3.7,15,Slow Delivery
+REST-2115,Koramangala,Healthy/Salad,874,2.9,68,Bad Service
+REST-2116,Whitefield,Healthy/Salad,221,3.4,65,"Bad Service, Slow Delivery"
+REST-2117,Whitefield,South Indian,674,2.9,225,"Bad Service, Slow Delivery"
+REST-2118,Whitefield,Chinese,636,3.0,31,"Bad Service, Slow Delivery"
+REST-2119,HSR Layout,North Indian,338,3.9,50,Oily
+REST-2120,Koramangala,South Indian,504,3.3,25,Bad Service
+REST-2121,Indiranagar,Continental,643,3.4,244,Bad Service
+REST-2122,Indiranagar,Healthy/Salad,698,4.4,427,Average Experience
+REST-2123,Koramangala,South Indian,695,3.2,155,Bad Service
+REST-2124,Electronic City,South Indian,200,3.1,106,Bad Service
+REST-2125,Koramangala,Continental,925,3.6,21,Average Experience
+REST-2126,HSR Layout,Chinese,531,3.6,10,Average Experience
+REST-2127,Whitefield,North Indian,430,3.8,203,Slow Delivery
+REST-2128,Jayanagar,Chinese,200,4.1,128,Average Experience
+REST-2129,Whitefield,North Indian,659,3.9,37,Slow Delivery
+REST-2130,HSR Layout,North Indian,260,2.8,39,"Bad Service, Oily"
+REST-2131,HSR Layout,North Indian,564,3.8,57,Oily
+REST-2132,Whitefield,Chinese,200,2.5,392,"Bad Service, Slow Delivery"
+REST-2133,Koramangala,Healthy/Salad,1255,3.3,79,Bad Service
+REST-2134,Electronic City,Chinese,791,2.3,7,Bad Service
+REST-2135,Indiranagar,Healthy/Salad,925,3.6,15,Average Experience
+REST-2136,Indiranagar,Continental,751,4.0,84,Average Experience
+REST-2137,Jayanagar,Continental,350,4.4,330,Average Experience
+REST-2138,Jayanagar,Chinese,200,3.5,89,Average Experience
+REST-2139,Koramangala,North Indian,1025,3.4,237,Bad Service
+REST-2140,Koramangala,North Indian,694,3.6,170,Average Experience
+REST-2141,Indiranagar,Biryani,467,4.2,2071,Crowded
+REST-2142,Whitefield,Continental,397,4.6,174,Slow Delivery
+REST-2143,Electronic City,Healthy/Salad,385,3.5,313,Average Experience
+REST-2144,Whitefield,North Indian,200,3.8,11,Slow Delivery
+REST-2145,Koramangala,North Indian,901,4.1,27,Average Experience
+REST-2146,Koramangala,North Indian,1057,3.2,6,Bad Service
+REST-2147,Koramangala,Biryani,934,4.3,1086,Crowded
+REST-2148,Whitefield,Biryani,434,4.5,787,"Crowded, Slow Delivery"
+REST-2149,Koramangala,Biryani,1069,4.5,12,Average Experience
+REST-2150,Whitefield,North Indian,587,4.5,184,Slow Delivery
+REST-2151,HSR Layout,Chinese,596,3.3,54,"Bad Service, Searching for Healthy"
+REST-2152,HSR Layout,Biryani,758,4.1,373,Average Experience
+REST-2153,HSR Layout,Chinese,200,3.7,188,Average Experience
+REST-2154,Indiranagar,Continental,924,4.5,13,Average Experience
+REST-2155,Koramangala,North Indian,387,3.1,72,Bad Service
+REST-2156,Koramangala,Chinese,657,3.8,31,Average Experience
+REST-2157,Indiranagar,North Indian,866,3.9,171,Average Experience
+REST-2158,Indiranagar,Biryani,828,4.3,228,Average Experience
+REST-2159,Indiranagar,Biryani,954,4.0,101,Average Experience
+REST-2160,Koramangala,Continental,614,3.6,20,Average Experience
+REST-2161,Koramangala,South Indian,610,3.2,89,Bad Service
+REST-2162,HSR Layout,Chinese,357,3.0,40,Bad Service
+REST-2163,Indiranagar,Chinese,970,3.6,5,Average Experience
+REST-2164,Whitefield,Chinese,412,4.5,2690,"Crowded, Slow Delivery"
+REST-2165,Indiranagar,Healthy/Salad,665,3.7,239,Average Experience
+REST-2166,Koramangala,Biryani,1060,4.2,1113,Crowded
+REST-2167,Jayanagar,Continental,200,3.6,84,Average Experience
+REST-2168,Koramangala,Continental,866,4.6,676,Crowded
+REST-2169,Koramangala,South Indian,1074,4.4,404,Average Experience
+REST-2170,Jayanagar,Biryani,583,3.7,440,Average Experience
+REST-2171,Koramangala,South Indian,587,4.0,34,Average Experience
+REST-2172,Koramangala,Continental,964,3.9,62,Average Experience
+REST-2173,Koramangala,Continental,747,3.3,155,Bad Service
+REST-2174,Koramangala,Chinese,903,4.7,275,Average Experience
+REST-2175,HSR Layout,North Indian,200,4.1,360,Oily
+REST-2176,Koramangala,South Indian,792,3.2,54,Bad Service
+REST-2177,Whitefield,South Indian,266,4.2,540,"Crowded, Slow Delivery"
+REST-2178,HSR Layout,North Indian,532,2.9,150,"Bad Service, Oily"
+REST-2179,HSR Layout,Biryani,796,4.2,3870,Crowded
+REST-2180,HSR Layout,North Indian,560,3.9,51,Oily
+REST-2181,Koramangala,South Indian,1054,3.4,355,Bad Service
+REST-2182,Koramangala,Biryani,735,3.7,77,Average Experience
+REST-2183,Whitefield,Chinese,496,3.2,29,"Bad Service, Slow Delivery"
+REST-2184,Electronic City,Chinese,423,3.9,132,Average Experience
+REST-2185,Koramangala,Healthy/Salad,853,4.1,902,Crowded
+REST-2186,Koramangala,South Indian,963,4.0,202,Average Experience
+REST-2187,Whitefield,Chinese,332,4.4,1253,"Crowded, Slow Delivery"
+REST-2188,Jayanagar,South Indian,528,3.0,56,Bad Service
+REST-2189,Indiranagar,Continental,746,2.8,105,Bad Service
+REST-2190,Indiranagar,North Indian,679,4.7,969,Crowded
+REST-2191,Indiranagar,South Indian,838,4.1,178,Average Experience
+REST-2192,Koramangala,South Indian,883,4.2,2373,Crowded
+REST-2193,Koramangala,Healthy/Salad,873,4.3,68,Average Experience
+REST-2194,Koramangala,Healthy/Salad,866,4.2,1295,Crowded
+REST-2195,Koramangala,Healthy/Salad,407,4.6,1162,Crowded
+REST-2196,Whitefield,North Indian,608,3.5,10,Slow Delivery
+REST-2197,HSR Layout,South Indian,448,4.4,8,Average Experience
+REST-2198,Indiranagar,North Indian,970,3.1,101,Bad Service
+REST-2199,Whitefield,North Indian,200,4.4,325,Slow Delivery
+REST-2200,Jayanagar,Biryani,521,4.0,32,Average Experience
+REST-2201,Indiranagar,North Indian,931,3.8,98,Average Experience
+REST-2202,Indiranagar,Healthy/Salad,1276,4.0,19,Average Experience
+REST-2203,HSR Layout,Chinese,389,3.7,18,Average Experience
+REST-2204,HSR Layout,South Indian,455,3.1,17,"Bad Service, Searching for Healthy"
+REST-2205,Jayanagar,Healthy/Salad,240,3.0,43,Bad Service
+REST-2206,Indiranagar,Healthy/Salad,665,3.0,44,Bad Service
+REST-2207,Whitefield,Continental,200,3.6,112,Slow Delivery
+REST-2208,Koramangala,Chinese,630,3.0,222,Bad Service
+REST-2209,Koramangala,Chinese,1009,4.0,32,Average Experience
+REST-2210,Indiranagar,Biryani,1033,3.9,48,Average Experience
+REST-2211,Indiranagar,Chinese,593,4.6,420,Average Experience
+REST-2212,Electronic City,Healthy/Salad,200,3.9,38,Average Experience
+REST-2213,Whitefield,South Indian,389,3.7,72,Slow Delivery
+REST-2214,HSR Layout,North Indian,200,3.8,50,Oily
+REST-2215,Indiranagar,Chinese,605,4.3,202,Average Experience
+REST-2216,Indiranagar,Chinese,1073,3.9,89,Average Experience
+REST-2217,Whitefield,Healthy/Salad,355,3.8,73,Slow Delivery
+REST-2218,HSR Layout,South Indian,212,3.1,332,"Bad Service, Searching for Healthy"
+REST-2219,Indiranagar,Chinese,844,3.9,10,Average Experience
+REST-2220,HSR Layout,Biryani,691,4.5,1038,"Crowded, Searching for Healthy"
+REST-2221,Indiranagar,Healthy/Salad,778,3.6,147,Average Experience
+REST-2222,Indiranagar,North Indian,676,4.8,318,Average Experience
+REST-2223,Koramangala,Chinese,998,4.0,3,Average Experience
+REST-2224,Koramangala,Biryani,383,4.0,74,Average Experience
+REST-2225,Indiranagar,South Indian,677,3.4,172,Bad Service
+REST-2226,Whitefield,Chinese,634,4.1,646,"Crowded, Slow Delivery"
+REST-2227,Indiranagar,Chinese,935,4.9,927,Crowded
+REST-2228,Koramangala,Healthy/Salad,1118,4.3,868,Crowded
+REST-2229,Koramangala,Continental,1084,3.5,3,Average Experience
+REST-2230,Koramangala,Healthy/Salad,732,4.0,189,Average Experience
+REST-2231,Whitefield,Biryani,481,4.9,1937,"Crowded, Slow Delivery"
+REST-2232,Indiranagar,Healthy/Salad,620,3.6,87,Average Experience
+REST-2233,Jayanagar,South Indian,582,3.8,21,Average Experience
+REST-2234,Indiranagar,Continental,895,3.4,350,Bad Service
+REST-2235,Indiranagar,North Indian,870,3.6,162,Average Experience
+REST-2236,Koramangala,North Indian,674,4.0,232,Average Experience
+REST-2237,Koramangala,North Indian,913,4.1,104,Average Experience
+REST-2238,Koramangala,Chinese,731,4.7,1715,Crowded
+REST-2239,Whitefield,Healthy/Salad,810,4.5,1130,"Crowded, Slow Delivery"
+REST-2240,Koramangala,North Indian,930,3.3,133,Bad Service
+REST-2241,Indiranagar,Chinese,742,3.7,13,Average Experience
+REST-2242,Jayanagar,Continental,466,3.5,62,Average Experience
+REST-2243,Indiranagar,Chinese,925,3.5,11,Average Experience
+REST-2244,Indiranagar,Chinese,758,3.2,98,Bad Service
+REST-2245,Whitefield,Healthy/Salad,460,3.9,131,Slow Delivery
+REST-2246,Koramangala,South Indian,777,4.2,318,Average Experience
+REST-2247,Koramangala,Biryani,720,4.0,37,Average Experience
+REST-2248,Koramangala,Continental,715,3.0,58,Bad Service
+REST-2249,Whitefield,Biryani,481,3.9,20,Slow Delivery
+REST-2250,Koramangala,South Indian,795,3.4,204,Bad Service
+REST-2251,Jayanagar,Biryani,443,3.8,29,Average Experience
+REST-2252,Electronic City,Biryani,621,3.2,212,Bad Service
+REST-2253,Indiranagar,South Indian,1386,3.3,38,Bad Service
+REST-2254,Koramangala,North Indian,1087,3.9,610,Crowded
+REST-2255,Indiranagar,Healthy/Salad,366,3.7,248,Average Experience
+REST-2256,Electronic City,Biryani,625,4.1,1727,Crowded
+REST-2257,Electronic City,Healthy/Salad,516,4.3,696,Crowded
+REST-2258,Whitefield,Healthy/Salad,495,4.8,1782,"Crowded, Slow Delivery"
+REST-2259,Koramangala,Chinese,898,4.5,290,Average Experience
+REST-2260,HSR Layout,North Indian,200,3.4,1,"Bad Service, Oily"
+REST-2261,Whitefield,South Indian,526,4.1,5,Slow Delivery
+REST-2262,Whitefield,North Indian,515,2.9,147,"Bad Service, Slow Delivery"
+REST-2263,Koramangala,Continental,745,4.4,525,Crowded
+REST-2264,HSR Layout,Continental,292,4.0,35,Average Experience
+REST-2265,Koramangala,Biryani,918,3.5,26,Average Experience
+REST-2266,Koramangala,Chinese,799,3.8,103,Average Experience
+REST-2267,Whitefield,Continental,338,3.7,86,Slow Delivery
+REST-2268,Koramangala,Healthy/Salad,702,4.4,1113,Crowded
+REST-2269,Indiranagar,Chinese,938,4.4,123,Average Experience
+REST-2270,Whitefield,South Indian,452,3.4,20,"Bad Service, Slow Delivery"
+REST-2271,Koramangala,Healthy/Salad,1184,4.1,43,Average Experience
+REST-2272,Koramangala,North Indian,804,3.0,83,Bad Service
+REST-2273,Koramangala,South Indian,871,3.3,44,Bad Service
+REST-2274,Koramangala,Continental,687,3.7,96,Average Experience
+REST-2275,Jayanagar,North Indian,566,4.5,629,Crowded
+REST-2276,HSR Layout,Chinese,443,3.5,104,Average Experience
+REST-2277,Electronic City,Continental,449,3.9,16,Average Experience
+REST-2278,HSR Layout,Chinese,318,3.0,44,Bad Service
+REST-2279,Koramangala,Healthy/Salad,649,4.7,447,Average Experience
+REST-2280,Koramangala,Biryani,1172,3.6,87,Average Experience
+REST-2281,Indiranagar,Healthy/Salad,786,3.6,4,Average Experience
+REST-2282,Koramangala,Chinese,551,3.4,6,Bad Service
+REST-2283,HSR Layout,South Indian,573,3.5,127,Average Experience
+REST-2284,Koramangala,South Indian,796,3.8,70,Average Experience
+REST-2285,Koramangala,Biryani,1402,3.6,82,Average Experience
+REST-2286,Koramangala,South Indian,708,3.9,52,Average Experience
+REST-2287,HSR Layout,Healthy/Salad,536,3.5,257,Average Experience
+REST-2288,Indiranagar,Chinese,811,3.7,189,Average Experience
+REST-2289,Jayanagar,Chinese,615,3.6,61,Average Experience
+REST-2290,HSR Layout,Chinese,200,3.4,74,Bad Service
+REST-2291,HSR Layout,South Indian,493,4.0,95,Average Experience
+REST-2292,Koramangala,Continental,842,3.6,114,Average Experience
+REST-2293,Jayanagar,Biryani,590,4.0,153,Average Experience
+REST-2294,Electronic City,Healthy/Salad,687,3.6,31,Average Experience
+REST-2295,HSR Layout,South Indian,512,3.3,38,Bad Service
+REST-2296,HSR Layout,Chinese,713,4.9,330,Average Experience
+REST-2297,HSR Layout,South Indian,442,3.5,83,Average Experience
+REST-2298,Whitefield,North Indian,341,3.3,135,"Bad Service, Slow Delivery"
+REST-2299,HSR Layout,Biryani,327,3.6,19,Average Experience
+REST-2300,HSR Layout,South Indian,352,3.8,149,Searching for Healthy
+REST-2301,Jayanagar,Biryani,200,4.2,862,Crowded
+REST-2302,Koramangala,Healthy/Salad,701,4.9,318,Average Experience
+REST-2303,Whitefield,South Indian,475,4.1,1485,"Crowded, Slow Delivery"
+REST-2304,Jayanagar,Continental,490,4.5,367,Average Experience
+REST-2305,HSR Layout,Chinese,200,3.9,8,Average Experience
+REST-2306,Koramangala,Biryani,488,4.9,387,Average Experience
+REST-2307,HSR Layout,Chinese,385,4.7,839,Crowded
+REST-2308,Jayanagar,Biryani,540,3.7,37,Average Experience
+REST-2309,Koramangala,Continental,843,3.9,43,Average Experience
+REST-2310,Indiranagar,South Indian,683,4.1,4777,Crowded
+REST-2311,Electronic City,Biryani,316,4.1,2118,Crowded
+REST-2312,Electronic City,Healthy/Salad,1099,3.6,3,Average Experience
+REST-2313,HSR Layout,North Indian,442,4.0,23,Oily
+REST-2314,Jayanagar,Continental,789,3.4,72,Bad Service
+REST-2315,Electronic City,Chinese,395,4.6,717,Crowded
+REST-2316,Koramangala,South Indian,707,4.2,457,Average Experience
+REST-2317,Koramangala,Healthy/Salad,835,3.7,6,Average Experience
+REST-2318,Jayanagar,South Indian,522,4.1,2281,Crowded
+REST-2319,Jayanagar,Biryani,200,3.8,128,Average Experience
+REST-2320,Koramangala,Continental,723,4.3,1124,Crowded
+REST-2321,Indiranagar,Continental,784,3.9,90,Average Experience
+REST-2322,HSR Layout,South Indian,200,4.1,2215,"Crowded, Searching for Healthy"
+REST-2323,Indiranagar,Chinese,1027,3.5,164,Average Experience
+REST-2324,Whitefield,Healthy/Salad,210,3.2,25,"Bad Service, Slow Delivery"
+REST-2325,Electronic City,South Indian,200,4.0,146,Average Experience
+REST-2326,Koramangala,Continental,695,3.9,334,Average Experience
+REST-2327,Indiranagar,Continental,1267,3.1,115,Bad Service
+REST-2328,Electronic City,Continental,739,4.7,632,Crowded
+REST-2329,Indiranagar,Biryani,808,3.1,95,Bad Service
+REST-2330,Koramangala,Biryani,674,3.5,83,Average Experience
+REST-2331,Indiranagar,Continental,893,3.2,196,Bad Service
+REST-2332,Koramangala,Biryani,575,4.1,3437,Crowded
+REST-2333,Whitefield,South Indian,200,3.5,77,Slow Delivery
+REST-2334,HSR Layout,South Indian,341,4.1,190,Searching for Healthy
+REST-2335,Koramangala,Chinese,1171,4.3,969,Crowded
+REST-2336,Koramangala,Biryani,1015,3.7,371,Average Experience
+REST-2337,Koramangala,South Indian,775,3.8,95,Average Experience
+REST-2338,Koramangala,Chinese,989,3.8,31,Average Experience
+REST-2339,Electronic City,Healthy/Salad,382,3.4,2,Bad Service
+REST-2340,HSR Layout,South Indian,356,3.9,33,Searching for Healthy
+REST-2341,Whitefield,Healthy/Salad,612,3.8,83,Slow Delivery
+REST-2342,Whitefield,North Indian,360,3.8,62,Slow Delivery
+REST-2343,Indiranagar,Healthy/Salad,1036,4.3,165,Average Experience
+REST-2344,HSR Layout,North Indian,545,4.0,244,Oily
+REST-2345,Koramangala,South Indian,702,2.7,276,Bad Service
+REST-2346,Jayanagar,Continental,652,3.4,44,Bad Service
+REST-2347,Indiranagar,North Indian,548,4.7,33,Average Experience
+REST-2348,HSR Layout,North Indian,200,3.2,45,"Bad Service, Oily"
+REST-2349,Koramangala,Chinese,818,4.2,2372,Crowded
+REST-2350,Indiranagar,North Indian,948,3.6,66,Average Experience
+REST-2351,Koramangala,Continental,896,3.6,42,Average Experience
+REST-2352,Jayanagar,South Indian,380,4.0,405,Average Experience
+REST-2353,Whitefield,Chinese,200,3.5,78,Slow Delivery
+REST-2354,Koramangala,South Indian,436,4.2,140,Average Experience
+REST-2355,Electronic City,Healthy/Salad,507,3.2,439,Bad Service
+REST-2356,Koramangala,Continental,1063,3.0,112,Bad Service
+REST-2357,Indiranagar,Continental,674,3.9,37,Average Experience
+REST-2358,Koramangala,Chinese,1103,3.2,16,Bad Service
+REST-2359,Indiranagar,Biryani,765,2.7,5,Bad Service
+REST-2360,Electronic City,Continental,839,3.2,44,Bad Service
+REST-2361,Koramangala,Biryani,1061,3.9,17,Average Experience
+REST-2362,Electronic City,Continental,625,3.3,33,Bad Service
+REST-2363,Indiranagar,South Indian,1101,3.5,86,Average Experience
+REST-2364,HSR Layout,North Indian,506,3.9,78,Oily
+REST-2365,Electronic City,North Indian,573,4.5,319,Average Experience
+REST-2366,Koramangala,Continental,821,3.4,369,Bad Service
+REST-2367,Jayanagar,North Indian,350,3.4,69,Bad Service
+REST-2368,Koramangala,Chinese,1140,4.1,278,Average Experience
+REST-2369,Whitefield,Chinese,554,3.7,268,Slow Delivery
+REST-2370,Whitefield,Chinese,526,4.9,2474,"Crowded, Slow Delivery"
+REST-2371,Indiranagar,Biryani,1029,4.2,616,Crowded
+REST-2372,Whitefield,Biryani,508,3.9,188,Slow Delivery
+REST-2373,Indiranagar,Biryani,754,4.1,161,Average Experience
+REST-2374,Electronic City,Chinese,468,4.6,276,Average Experience
+REST-2375,Koramangala,South Indian,496,3.7,135,Average Experience
+REST-2376,Jayanagar,Continental,449,3.9,90,Average Experience
+REST-2377,Indiranagar,North Indian,947,3.4,99,Bad Service
+REST-2378,Koramangala,Chinese,913,3.3,101,Bad Service
+REST-2379,Jayanagar,Chinese,364,3.7,328,Average Experience
+REST-2380,Koramangala,South Indian,871,4.1,395,Average Experience
+REST-2381,Koramangala,Chinese,405,3.7,34,Average Experience
+REST-2382,Koramangala,South Indian,610,3.8,127,Average Experience
+REST-2383,Koramangala,Healthy/Salad,476,3.3,151,Bad Service
+REST-2384,Indiranagar,Biryani,612,2.9,196,Bad Service
+REST-2385,Koramangala,Healthy/Salad,843,4.7,3071,Crowded
+REST-2386,Electronic City,North Indian,398,4.2,674,Crowded
+REST-2387,Indiranagar,Biryani,817,3.6,251,Average Experience
+REST-2388,Indiranagar,Continental,1254,3.4,102,Bad Service
+REST-2389,Whitefield,South Indian,758,3.2,4,"Bad Service, Slow Delivery"
+REST-2390,Koramangala,Continental,675,4.2,1367,Crowded
+REST-2391,Indiranagar,Continental,926,4.4,1168,Crowded
+REST-2392,Koramangala,Healthy/Salad,959,3.1,35,Bad Service
+REST-2393,Electronic City,Chinese,405,3.3,100,Bad Service
+REST-2394,Koramangala,Continental,762,3.9,92,Average Experience
+REST-2395,Indiranagar,Chinese,877,3.8,8,Average Experience
+REST-2396,Jayanagar,Biryani,627,3.5,175,Average Experience
+REST-2397,Whitefield,Biryani,281,4.0,4,Slow Delivery
+REST-2398,Indiranagar,Chinese,711,3.8,3,Average Experience
+REST-2399,Koramangala,South Indian,901,2.9,169,Bad Service
+REST-2400,HSR Layout,North Indian,200,3.0,293,"Bad Service, Oily"
+REST-2401,HSR Layout,Chinese,661,3.4,103,Bad Service
+REST-2402,Jayanagar,Healthy/Salad,585,4.3,49,Average Experience
+REST-2403,Indiranagar,Continental,819,3.6,122,Average Experience
+REST-2404,Koramangala,South Indian,513,4.9,2979,Crowded
+REST-2405,Indiranagar,South Indian,895,3.4,71,Bad Service
+REST-2406,Koramangala,South Indian,673,3.4,13,Bad Service
+REST-2407,Whitefield,Biryani,800,4.7,664,"Crowded, Slow Delivery"
+REST-2408,Indiranagar,Healthy/Salad,960,3.6,191,Average Experience
+REST-2409,Koramangala,Chinese,763,3.7,53,Average Experience
+REST-2410,Indiranagar,Biryani,962,3.7,68,Average Experience
+REST-2411,Indiranagar,Biryani,790,3.6,13,Average Experience
+REST-2412,Electronic City,Chinese,478,3.5,412,Average Experience
+REST-2413,Electronic City,Biryani,347,4.0,195,Average Experience
+REST-2414,Koramangala,South Indian,864,3.4,31,Bad Service
+REST-2415,Electronic City,Healthy/Salad,501,4.1,604,Crowded
+REST-2416,Koramangala,Biryani,575,3.3,88,Bad Service
+REST-2417,Whitefield,Healthy/Salad,512,3.8,159,Slow Delivery
+REST-2418,HSR Layout,Chinese,708,2.6,161,Bad Service
+REST-2419,Indiranagar,Biryani,724,3.9,37,Average Experience
+REST-2420,Koramangala,Continental,713,4.2,1187,Crowded
+REST-2421,Electronic City,North Indian,385,4.4,124,Average Experience
+REST-2422,Electronic City,Continental,564,3.4,282,Bad Service
+REST-2423,Koramangala,Continental,692,4.9,102,Average Experience
+REST-2424,Koramangala,Continental,929,3.6,49,Average Experience
+REST-2425,Whitefield,North Indian,200,3.5,156,Slow Delivery
+REST-2426,HSR Layout,Healthy/Salad,301,4.1,1276,Crowded
+REST-2427,Indiranagar,Chinese,1201,4.0,52,Average Experience
+REST-2428,Koramangala,Healthy/Salad,645,3.5,24,Average Experience
+REST-2429,Indiranagar,Continental,923,3.9,83,Average Experience
+REST-2430,Whitefield,North Indian,400,4.1,1008,"Crowded, Slow Delivery"
+REST-2431,Koramangala,Healthy/Salad,764,4.5,2396,Crowded
+REST-2432,Indiranagar,South Indian,635,3.3,90,Bad Service
+REST-2433,Indiranagar,Continental,788,4.0,5,Average Experience
+REST-2434,HSR Layout,North Indian,344,3.8,113,Oily
+REST-2435,Whitefield,Healthy/Salad,390,4.3,1908,"Crowded, Slow Delivery"
+REST-2436,HSR Layout,Continental,638,4.0,1,Average Experience
+REST-2437,Jayanagar,South Indian,243,4.8,519,Crowded
+REST-2438,Koramangala,Biryani,1142,3.3,21,Bad Service
+REST-2439,Koramangala,Healthy/Salad,601,4.2,2050,Crowded
+REST-2440,Whitefield,Chinese,461,3.5,47,Slow Delivery
+REST-2441,Koramangala,Healthy/Salad,658,2.9,322,Bad Service
+REST-2442,Whitefield,South Indian,639,2.8,92,"Bad Service, Slow Delivery"
+REST-2443,Koramangala,Healthy/Salad,824,3.7,31,Average Experience
+REST-2444,Electronic City,Continental,494,3.2,9,Bad Service
+REST-2445,Whitefield,Biryani,357,3.3,37,"Bad Service, Slow Delivery"
+REST-2446,Indiranagar,Biryani,416,4.0,4,Average Experience
+REST-2447,Indiranagar,Chinese,848,4.3,3800,Crowded
+REST-2448,HSR Layout,Healthy/Salad,254,3.8,0,Average Experience
+REST-2449,Koramangala,Chinese,989,4.2,89,Average Experience
+REST-2450,Indiranagar,North Indian,863,3.0,67,Bad Service
+REST-2451,Koramangala,Biryani,800,2.8,138,Bad Service
+REST-2452,HSR Layout,Chinese,422,4.4,2347,Crowded
+REST-2453,Koramangala,Healthy/Salad,709,3.9,56,Average Experience
+REST-2454,Whitefield,Chinese,452,3.3,90,"Bad Service, Slow Delivery"
+REST-2455,Koramangala,Chinese,975,4.0,7,Average Experience
+REST-2456,Whitefield,North Indian,340,4.3,2669,"Crowded, Slow Delivery"
+REST-2457,Jayanagar,North Indian,476,3.8,14,Average Experience
+REST-2458,HSR Layout,Biryani,200,4.5,42,Average Experience
+REST-2459,Whitefield,North Indian,481,3.3,53,"Bad Service, Slow Delivery"
+REST-2460,HSR Layout,Healthy/Salad,650,3.4,100,Bad Service
+REST-2461,Koramangala,Continental,954,3.8,18,Average Experience
+REST-2462,HSR Layout,North Indian,466,3.9,2,Oily
+REST-2463,Indiranagar,South Indian,870,3.9,94,Average Experience
+REST-2464,HSR Layout,Healthy/Salad,349,3.8,92,Average Experience
+REST-2465,Jayanagar,South Indian,561,3.7,16,Average Experience
+REST-2466,Jayanagar,Healthy/Salad,523,3.6,407,Average Experience
+REST-2467,Indiranagar,Biryani,1013,3.4,1,Bad Service
+REST-2468,Whitefield,North Indian,200,3.6,7,Slow Delivery
+REST-2469,Koramangala,South Indian,733,4.9,135,Average Experience
+REST-2470,Jayanagar,Biryani,331,4.6,4023,Crowded
+REST-2471,Koramangala,North Indian,1035,3.8,165,Average Experience
+REST-2472,Koramangala,Chinese,935,3.7,202,Average Experience
+REST-2473,Whitefield,Healthy/Salad,200,4.8,734,"Crowded, Slow Delivery"
+REST-2474,Koramangala,Chinese,858,3.6,242,Average Experience
+REST-2475,Koramangala,South Indian,990,4.2,1012,Crowded
+REST-2476,Jayanagar,North Indian,752,2.6,108,Bad Service
+REST-2477,Koramangala,South Indian,1082,3.3,279,Bad Service
+REST-2478,Koramangala,Healthy/Salad,896,3.8,62,Average Experience
+REST-2479,Jayanagar,Healthy/Salad,409,4.4,787,Crowded
+REST-2480,Koramangala,South Indian,937,3.6,75,Average Experience
+REST-2481,Indiranagar,Continental,706,4.1,1209,Crowded
+REST-2482,Koramangala,South Indian,787,3.8,161,Average Experience
+REST-2483,Koramangala,Chinese,746,4.7,14,Average Experience
+REST-2484,Whitefield,Biryani,627,3.7,81,Slow Delivery
+REST-2485,HSR Layout,South Indian,200,4.1,1631,Crowded
+REST-2486,Indiranagar,North Indian,852,4.2,58,Average Experience
+REST-2487,HSR Layout,Chinese,573,2.8,85,Bad Service
+REST-2488,Koramangala,Continental,670,3.6,85,Average Experience
+REST-2489,Jayanagar,North Indian,323,4.5,207,Average Experience
+REST-2490,HSR Layout,Biryani,389,4.0,33,Average Experience
+REST-2491,Koramangala,Biryani,983,3.6,123,Average Experience
+REST-2492,Koramangala,Continental,950,3.8,117,Average Experience
+REST-2493,Indiranagar,North Indian,1024,3.8,119,Average Experience
+REST-2494,Koramangala,Healthy/Salad,987,3.0,81,Bad Service
+REST-2495,Indiranagar,Healthy/Salad,675,4.2,970,Crowded
+REST-2496,Indiranagar,Chinese,930,4.2,1355,Crowded
+REST-2497,Whitefield,Healthy/Salad,854,3.1,69,"Bad Service, Slow Delivery"
+REST-2498,Koramangala,Chinese,938,2.9,17,Bad Service
+REST-2499,Indiranagar,North Indian,900,4.2,1856,Crowded
+REST-2500,Koramangala,Biryani,219,3.9,9,Average Experience
+REST-2501,HSR Layout,North Indian,666,3.4,213,"Bad Service, Oily"
+REST-2502,Whitefield,Biryani,333,3.5,42,Slow Delivery
+REST-2503,HSR Layout,North Indian,475,3.7,193,Oily
+REST-2504,HSR Layout,North Indian,200,4.3,696,"Crowded, Oily"
+REST-2505,HSR Layout,South Indian,427,3.1,5,Bad Service
+REST-2506,Indiranagar,Continental,932,4.5,1138,Crowded
+REST-2507,Whitefield,Chinese,200,3.0,102,"Bad Service, Slow Delivery"
+REST-2508,Indiranagar,Biryani,452,4.4,2816,Crowded
+REST-2509,HSR Layout,Healthy/Salad,706,3.8,217,Average Experience
+REST-2510,Electronic City,Chinese,200,3.0,24,Bad Service
+REST-2511,Electronic City,South Indian,552,3.1,91,Bad Service
+REST-2512,Whitefield,Healthy/Salad,326,4.2,576,"Crowded, Slow Delivery"
+REST-2513,Indiranagar,South Indian,687,3.8,178,Average Experience
+REST-2514,Koramangala,North Indian,584,4.0,594,Crowded
+REST-2515,Koramangala,Biryani,908,3.6,438,Average Experience
+REST-2516,Electronic City,Healthy/Salad,297,3.6,41,Average Experience
+REST-2517,Koramangala,Chinese,805,3.6,18,Average Experience
+REST-2518,Whitefield,Chinese,450,4.6,227,Slow Delivery
+REST-2519,Jayanagar,North Indian,200,4.0,7,Average Experience
+REST-2520,Koramangala,South Indian,800,3.9,15,Average Experience
+REST-2521,Electronic City,Continental,339,2.9,184,Bad Service
+REST-2522,HSR Layout,North Indian,429,4.2,15,Oily
+REST-2523,Jayanagar,Healthy/Salad,200,3.4,58,Bad Service
+REST-2524,Koramangala,Continental,554,4.0,196,Average Experience
+REST-2525,Whitefield,Chinese,340,3.5,331,Slow Delivery
+REST-2526,Koramangala,Chinese,767,3.5,122,Average Experience
+REST-2527,Jayanagar,Chinese,305,4.2,925,Crowded
+REST-2528,Indiranagar,South Indian,859,4.4,1963,Crowded
+REST-2529,Whitefield,Biryani,465,3.1,51,"Bad Service, Slow Delivery"
+REST-2530,Indiranagar,Continental,567,4.0,183,Average Experience
+REST-2531,HSR Layout,North Indian,697,4.2,2249,"Crowded, Oily"
+REST-2532,Koramangala,North Indian,785,3.8,108,Average Experience
+REST-2533,Whitefield,Healthy/Salad,510,4.0,79,Slow Delivery
+REST-2534,Indiranagar,North Indian,694,4.4,234,Average Experience
+REST-2535,Electronic City,South Indian,200,3.3,24,Bad Service
+REST-2536,HSR Layout,Biryani,302,4.3,802,Crowded
+REST-2537,Electronic City,South Indian,316,3.3,71,Bad Service
+REST-2538,Koramangala,Healthy/Salad,1013,3.9,175,Average Experience
+REST-2539,HSR Layout,South Indian,442,2.9,57,"Bad Service, Searching for Healthy"
+REST-2540,HSR Layout,South Indian,498,3.5,13,Average Experience
+REST-2541,Koramangala,Biryani,774,3.6,427,Average Experience
+REST-2542,Jayanagar,Healthy/Salad,290,3.6,20,Average Experience
+REST-2543,Whitefield,Continental,417,3.3,108,"Bad Service, Slow Delivery"
+REST-2544,Indiranagar,Biryani,483,4.6,179,Average Experience
+REST-2545,Jayanagar,North Indian,405,4.6,724,Crowded
+REST-2546,Koramangala,Chinese,1050,3.2,31,Bad Service
+REST-2547,Koramangala,South Indian,1042,4.2,597,Crowded
+REST-2548,Koramangala,Healthy/Salad,1104,3.7,53,Average Experience
+REST-2549,Electronic City,Healthy/Salad,805,4.7,343,Average Experience
+REST-2550,Koramangala,South Indian,800,4.4,784,Crowded
+REST-2551,HSR Layout,South Indian,705,4.0,70,Average Experience
+REST-2552,Indiranagar,Healthy/Salad,698,3.5,20,Average Experience
+REST-2553,Indiranagar,Chinese,892,3.3,66,Bad Service
+REST-2554,Koramangala,Continental,952,3.0,19,Bad Service
+REST-2555,Koramangala,North Indian,1019,4.6,4925,Crowded
+REST-2556,Jayanagar,Continental,200,4.9,47,Average Experience
+REST-2557,HSR Layout,Chinese,558,3.8,0,Searching for Healthy
+REST-2558,Whitefield,Continental,636,4.0,108,Slow Delivery
+REST-2559,Indiranagar,Continental,910,3.3,45,Bad Service
+REST-2560,Koramangala,Biryani,325,3.4,32,Bad Service
+REST-2561,HSR Layout,Continental,266,3.4,128,Bad Service
+REST-2562,Jayanagar,South Indian,458,4.0,428,Average Experience
+REST-2563,Indiranagar,South Indian,635,4.4,1868,Crowded
+REST-2564,Electronic City,Chinese,498,3.6,78,Average Experience
+REST-2565,Indiranagar,Biryani,904,3.3,38,Bad Service
+REST-2566,HSR Layout,North Indian,630,4.3,1439,"Crowded, Oily"
+REST-2567,HSR Layout,Chinese,200,3.8,41,Average Experience
+REST-2568,Koramangala,Biryani,895,4.0,0,Average Experience
+REST-2569,Whitefield,Biryani,406,3.6,16,Slow Delivery
+REST-2570,Electronic City,North Indian,200,4.1,1334,Crowded
+REST-2571,HSR Layout,Healthy/Salad,727,4.8,2301,Crowded
+REST-2572,Koramangala,Continental,806,4.6,28,Average Experience
+REST-2573,HSR Layout,North Indian,631,4.3,1250,"Crowded, Oily"
+REST-2574,Koramangala,Chinese,1091,3.1,51,Bad Service
+REST-2575,Koramangala,South Indian,794,3.3,298,Bad Service
+REST-2576,Koramangala,Healthy/Salad,802,3.8,56,Average Experience
+REST-2577,Koramangala,Chinese,964,4.0,37,Average Experience
+REST-2578,Jayanagar,Healthy/Salad,237,3.6,172,Average Experience
+REST-2579,HSR Layout,Continental,319,4.4,16,Average Experience
+REST-2580,Whitefield,Biryani,674,3.9,471,Slow Delivery
+REST-2581,Koramangala,Biryani,773,4.0,261,Average Experience
+REST-2582,HSR Layout,South Indian,550,3.7,4,Average Experience
+REST-2583,Koramangala,South Indian,687,4.2,1273,Crowded
+REST-2584,Jayanagar,Continental,423,4.0,68,Average Experience
+REST-2585,HSR Layout,Biryani,743,4.9,678,Crowded
+REST-2586,Indiranagar,Biryani,1054,4.5,451,Average Experience
+REST-2587,HSR Layout,South Indian,200,3.8,8,Average Experience
+REST-2588,Koramangala,Biryani,952,4.2,4,Average Experience
+REST-2589,Indiranagar,Healthy/Salad,897,3.2,167,Bad Service
+REST-2590,Electronic City,Biryani,316,4.0,234,Average Experience
+REST-2591,Whitefield,Healthy/Salad,470,3.6,39,Slow Delivery
+REST-2592,Koramangala,Continental,486,4.0,76,Average Experience
+REST-2593,HSR Layout,Healthy/Salad,485,3.6,105,Average Experience
+REST-2594,Indiranagar,North Indian,808,3.8,90,Average Experience
+REST-2595,Indiranagar,Chinese,1057,4.4,857,Crowded
+REST-2596,Electronic City,South Indian,447,3.9,248,Average Experience
+REST-2597,Whitefield,South Indian,659,3.3,42,"Bad Service, Slow Delivery"
+REST-2598,Indiranagar,Continental,1166,4.5,381,Average Experience
+REST-2599,Koramangala,Biryani,438,4.1,80,Average Experience
+REST-2600,Koramangala,Biryani,1036,2.9,104,Bad Service
+REST-2601,Koramangala,Biryani,512,3.7,92,Average Experience
+REST-2602,Whitefield,Chinese,200,3.1,125,"Bad Service, Slow Delivery"
+REST-2603,Koramangala,North Indian,1089,4.2,331,Average Experience
+REST-2604,Indiranagar,North Indian,880,3.9,69,Average Experience
+REST-2605,Indiranagar,Biryani,821,3.8,149,Average Experience
+REST-2606,Indiranagar,Healthy/Salad,1080,4.0,65,Average Experience
+REST-2607,Indiranagar,South Indian,572,3.2,176,Bad Service
+REST-2608,Indiranagar,Healthy/Salad,1149,4.4,573,Crowded
+REST-2609,Koramangala,Biryani,842,4.8,1705,Crowded
+REST-2610,Jayanagar,North Indian,220,3.8,114,Average Experience
+REST-2611,Indiranagar,Continental,700,4.4,1041,Crowded
+REST-2612,Jayanagar,Continental,200,4.4,1479,Crowded
+REST-2613,Indiranagar,South Indian,903,3.5,81,Average Experience
+REST-2614,Indiranagar,South Indian,780,3.6,7,Average Experience
+REST-2615,Electronic City,Biryani,200,4.1,479,Average Experience
+REST-2616,Koramangala,Continental,741,3.9,64,Average Experience
+REST-2617,Whitefield,Biryani,365,4.0,163,Slow Delivery
+REST-2618,Electronic City,North Indian,645,2.8,246,Bad Service
+REST-2619,HSR Layout,North Indian,333,3.5,0,Oily
+REST-2620,Jayanagar,Chinese,436,4.3,1914,Crowded
+REST-2621,Indiranagar,South Indian,726,4.0,62,Average Experience
+REST-2622,HSR Layout,South Indian,568,3.7,33,Average Experience
+REST-2623,Electronic City,Healthy/Salad,432,3.5,19,Average Experience
+REST-2624,HSR Layout,South Indian,487,4.7,264,Average Experience
+REST-2625,Whitefield,Chinese,445,3.8,126,Slow Delivery
+REST-2626,Koramangala,Continental,870,3.4,74,Bad Service
+REST-2627,Jayanagar,Biryani,200,3.7,189,Average Experience
+REST-2628,Jayanagar,Continental,366,4.6,2118,Crowded
+REST-2629,Jayanagar,Continental,319,4.2,869,Crowded
+REST-2630,Indiranagar,North Indian,592,3.6,106,Average Experience
+REST-2631,Indiranagar,Continental,377,4.0,92,Average Experience
+REST-2632,Indiranagar,Biryani,525,3.9,11,Average Experience
+REST-2633,Koramangala,South Indian,614,3.8,15,Average Experience
+REST-2634,Indiranagar,Healthy/Salad,1080,4.5,326,Average Experience
+REST-2635,Whitefield,Chinese,277,3.6,50,Slow Delivery
+REST-2636,Whitefield,Healthy/Salad,349,2.1,29,"Bad Service, Slow Delivery"
+REST-2637,Whitefield,Healthy/Salad,465,3.2,270,"Bad Service, Slow Delivery"
+REST-2638,HSR Layout,South Indian,548,4.2,27,Average Experience
+REST-2639,Koramangala,Healthy/Salad,987,4.0,179,Average Experience
+REST-2640,Indiranagar,North Indian,921,4.3,1800,Crowded
+REST-2641,Electronic City,South Indian,612,4.2,93,Average Experience
+REST-2642,Electronic City,North Indian,679,4.1,639,Crowded
+REST-2643,HSR Layout,Chinese,486,3.5,42,Searching for Healthy
+REST-2644,Koramangala,Healthy/Salad,441,4.0,43,Average Experience
+REST-2645,Jayanagar,Healthy/Salad,410,4.2,1901,Crowded
+REST-2646,Whitefield,Healthy/Salad,379,3.8,49,Slow Delivery
+REST-2647,Koramangala,Continental,854,4.0,7,Average Experience
+REST-2648,Koramangala,Healthy/Salad,783,4.0,178,Average Experience
+REST-2649,Indiranagar,Chinese,893,4.3,796,Crowded
+REST-2650,Koramangala,Biryani,936,3.7,118,Average Experience
+REST-2651,HSR Layout,Chinese,256,4.1,1244,Crowded
+REST-2652,Jayanagar,Continental,367,4.2,2411,Crowded
+REST-2653,Jayanagar,Chinese,426,3.8,197,Average Experience
+REST-2654,Koramangala,Continental,1185,3.6,94,Average Experience
+REST-2655,Koramangala,Biryani,833,4.3,337,Average Experience
+REST-2656,Indiranagar,North Indian,1014,3.6,161,Average Experience
+REST-2657,Jayanagar,Biryani,568,4.8,1445,Crowded
+REST-2658,Indiranagar,North Indian,1123,4.5,1325,Crowded
+REST-2659,Whitefield,South Indian,480,3.5,28,Slow Delivery
+REST-2660,HSR Layout,Biryani,203,3.6,168,Average Experience
+REST-2661,HSR Layout,North Indian,327,3.6,140,Oily
+REST-2662,Koramangala,Continental,990,4.6,2491,Crowded
+REST-2663,HSR Layout,South Indian,295,3.8,3,Average Experience
+REST-2664,Koramangala,Chinese,722,4.4,608,Crowded
+REST-2665,Jayanagar,Biryani,480,4.0,179,Average Experience
+REST-2666,Electronic City,South Indian,655,4.2,4839,Crowded
+REST-2667,HSR Layout,North Indian,419,4.0,36,"Oily, Searching for Healthy"
+REST-2668,Koramangala,South Indian,1046,3.7,40,Average Experience
+REST-2669,HSR Layout,Biryani,355,3.8,3,Average Experience
+REST-2670,Koramangala,South Indian,632,4.3,117,Average Experience
+REST-2671,Koramangala,South Indian,895,4.2,2718,Crowded
+REST-2672,Jayanagar,Healthy/Salad,350,3.6,49,Average Experience
+REST-2673,Koramangala,Chinese,668,4.6,1488,Crowded
+REST-2674,Koramangala,Chinese,685,4.1,1485,Crowded
+REST-2675,Whitefield,South Indian,526,4.0,8,Slow Delivery
+REST-2676,HSR Layout,South Indian,306,3.0,56,Bad Service
+REST-2677,Koramangala,Healthy/Salad,924,4.2,812,Crowded
+REST-2678,Jayanagar,Continental,395,4.3,675,Crowded
+REST-2679,Whitefield,North Indian,454,3.3,7,"Bad Service, Slow Delivery"
+REST-2680,Indiranagar,Chinese,1221,3.8,98,Average Experience
+REST-2681,Indiranagar,South Indian,1005,3.0,0,Bad Service
+REST-2682,Indiranagar,Chinese,710,3.7,197,Average Experience
+REST-2683,Koramangala,Continental,442,3.5,90,Average Experience
+REST-2684,Koramangala,Biryani,949,3.7,53,Average Experience
+REST-2685,Koramangala,Continental,627,4.0,151,Average Experience
+REST-2686,Koramangala,Chinese,710,3.7,79,Average Experience
+REST-2687,Koramangala,Continental,267,3.5,72,Average Experience
+REST-2688,Jayanagar,Biryani,392,3.0,82,Bad Service
+REST-2689,Koramangala,South Indian,671,4.7,2385,Crowded
+REST-2690,Indiranagar,South Indian,200,3.7,116,Average Experience
+REST-2691,Indiranagar,Continental,970,3.7,295,Average Experience
+REST-2692,Jayanagar,Healthy/Salad,421,3.9,133,Average Experience
+REST-2693,Whitefield,Chinese,556,3.2,69,"Bad Service, Slow Delivery"
+REST-2694,Whitefield,South Indian,779,3.6,57,Slow Delivery
+REST-2695,Koramangala,South Indian,691,4.4,511,Crowded
+REST-2696,Indiranagar,Biryani,893,3.8,95,Average Experience
+REST-2697,Koramangala,Biryani,362,3.8,239,Average Experience
+REST-2698,Koramangala,Continental,855,4.3,995,Crowded
+REST-2699,Indiranagar,Chinese,991,3.7,11,Average Experience
+REST-2700,Indiranagar,North Indian,743,3.8,117,Average Experience
+REST-2701,Whitefield,Biryani,514,4.3,1292,"Crowded, Slow Delivery"
+REST-2702,HSR Layout,Biryani,545,3.8,26,Average Experience
+REST-2703,Jayanagar,Continental,590,4.2,1363,Crowded
+REST-2704,HSR Layout,Continental,342,4.3,2226,Crowded
+REST-2705,Koramangala,Chinese,923,3.4,58,Bad Service
+REST-2706,HSR Layout,Biryani,310,3.9,78,Average Experience
+REST-2707,Koramangala,Chinese,1113,4.1,850,Crowded
+REST-2708,Koramangala,North Indian,680,4.0,30,Average Experience
+REST-2709,Koramangala,Chinese,797,3.7,19,Average Experience
+REST-2710,Koramangala,Healthy/Salad,827,3.7,211,Average Experience
+REST-2711,HSR Layout,Chinese,218,3.4,110,"Bad Service, Searching for Healthy"
+REST-2712,Koramangala,Healthy/Salad,1123,3.5,221,Average Experience
+REST-2713,Koramangala,Healthy/Salad,815,2.4,39,Bad Service
+REST-2714,HSR Layout,Biryani,268,4.7,2423,"Crowded, Searching for Healthy"
+REST-2715,Jayanagar,Healthy/Salad,539,3.9,22,Average Experience
+REST-2716,HSR Layout,South Indian,494,4.1,1141,Crowded
+REST-2717,Indiranagar,South Indian,581,4.2,1578,Crowded
+REST-2718,Indiranagar,Continental,845,3.4,93,Bad Service
+REST-2719,HSR Layout,North Indian,332,4.1,35,Oily
+REST-2720,Indiranagar,Healthy/Salad,1110,3.7,110,Average Experience
+REST-2721,Electronic City,Biryani,535,3.6,53,Average Experience
+REST-2722,HSR Layout,North Indian,445,3.9,266,"Oily, Searching for Healthy"
+REST-2723,Whitefield,North Indian,200,4.1,400,Slow Delivery
+REST-2724,Jayanagar,Chinese,382,4.4,457,Average Experience
+REST-2725,Indiranagar,Chinese,808,3.6,100,Average Experience
+REST-2726,Koramangala,South Indian,707,3.9,41,Average Experience
+REST-2727,Koramangala,Healthy/Salad,514,4.0,55,Average Experience
+REST-2728,Koramangala,South Indian,774,4.1,425,Average Experience
+REST-2729,Electronic City,South Indian,300,4.0,463,Average Experience
+REST-2730,Koramangala,Biryani,447,3.3,108,Bad Service
+REST-2731,Whitefield,North Indian,396,3.8,26,Slow Delivery
+REST-2732,Whitefield,Chinese,457,3.7,28,Slow Delivery
+REST-2733,Koramangala,Continental,967,4.7,323,Average Experience
+REST-2734,Indiranagar,Chinese,893,3.4,144,Bad Service
+REST-2735,Koramangala,Healthy/Salad,680,3.8,181,Average Experience
+REST-2736,Koramangala,North Indian,1352,4.2,529,Crowded
+REST-2737,Electronic City,South Indian,529,3.5,31,Average Experience
+REST-2738,Koramangala,North Indian,762,3.9,216,Average Experience
+REST-2739,Whitefield,Continental,339,4.4,364,Slow Delivery
+REST-2740,Koramangala,Chinese,637,3.5,41,Average Experience
+REST-2741,HSR Layout,Continental,766,3.8,18,Average Experience
+REST-2742,Indiranagar,North Indian,902,4.0,153,Average Experience
+REST-2743,Koramangala,North Indian,536,3.5,100,Average Experience
+REST-2744,Electronic City,South Indian,200,3.5,331,Average Experience
+REST-2745,HSR Layout,North Indian,200,3.3,257,"Bad Service, Oily"
+REST-2746,Koramangala,South Indian,1045,3.6,131,Average Experience
+REST-2747,Electronic City,North Indian,649,4.9,88,Average Experience
+REST-2748,Koramangala,Continental,669,4.4,615,Crowded
+REST-2749,Whitefield,Continental,200,4.4,1856,"Crowded, Slow Delivery"
+REST-2750,Koramangala,Chinese,675,3.1,78,Bad Service
+REST-2751,Jayanagar,Continental,200,4.0,37,Average Experience
+REST-2752,Koramangala,South Indian,1170,3.5,14,Average Experience
+REST-2753,Koramangala,North Indian,890,4.3,907,Crowded
+REST-2754,Jayanagar,Chinese,415,3.8,18,Average Experience
+REST-2755,Koramangala,Chinese,662,4.4,814,Crowded
+REST-2756,Koramangala,North Indian,779,3.5,79,Average Experience
+REST-2757,Indiranagar,Chinese,730,3.4,116,Bad Service
+REST-2758,Whitefield,South Indian,713,4.0,255,Slow Delivery
+REST-2759,Koramangala,South Indian,801,4.1,42,Average Experience
+REST-2760,Indiranagar,Continental,706,3.4,62,Bad Service
+REST-2761,Koramangala,South Indian,585,4.3,2764,Crowded
+REST-2762,Koramangala,Healthy/Salad,791,3.3,57,Bad Service
+REST-2763,Koramangala,South Indian,1029,4.2,380,Average Experience
+REST-2764,Whitefield,South Indian,441,3.2,103,"Bad Service, Slow Delivery"
+REST-2765,Koramangala,North Indian,697,3.8,152,Average Experience
+REST-2766,Koramangala,North Indian,866,4.3,80,Average Experience
+REST-2767,Indiranagar,Healthy/Salad,808,3.3,166,Bad Service
+REST-2768,HSR Layout,Continental,832,3.7,52,Average Experience
+REST-2769,Whitefield,Chinese,438,4.0,20,Slow Delivery
+REST-2770,Whitefield,South Indian,470,4.9,1999,"Crowded, Slow Delivery"
+REST-2771,Indiranagar,Healthy/Salad,723,4.2,153,Average Experience
+REST-2772,Jayanagar,Biryani,226,4.0,28,Average Experience
+REST-2773,HSR Layout,Chinese,411,4.9,1224,"Crowded, Searching for Healthy"
+REST-2774,Whitefield,Chinese,748,3.2,35,"Bad Service, Slow Delivery"
+REST-2775,HSR Layout,North Indian,301,4.3,1806,"Crowded, Oily"
+REST-2776,HSR Layout,Chinese,390,4.1,3234,Crowded
+REST-2777,Jayanagar,Continental,659,4.4,1310,Crowded
+REST-2778,Whitefield,Chinese,225,4.0,129,Slow Delivery
+REST-2779,Whitefield,Continental,434,2.9,139,"Bad Service, Slow Delivery"
+REST-2780,Indiranagar,North Indian,946,2.9,14,Bad Service
+REST-2781,HSR Layout,Chinese,872,4.0,2,Average Experience
+REST-2782,Koramangala,Healthy/Salad,1052,3.3,86,Bad Service
+REST-2783,Whitefield,Chinese,200,4.2,564,"Crowded, Slow Delivery"
+REST-2784,Koramangala,Continental,935,4.0,19,Average Experience
+REST-2785,Koramangala,Healthy/Salad,920,3.7,42,Average Experience
+REST-2786,Electronic City,Continental,684,3.5,39,Average Experience
+REST-2787,HSR Layout,Biryani,200,4.0,37,Searching for Healthy
+REST-2788,Indiranagar,Continental,869,4.1,2047,Crowded
+REST-2789,Indiranagar,North Indian,836,3.3,29,Bad Service
+REST-2790,Indiranagar,South Indian,916,3.0,36,Bad Service
+REST-2791,Indiranagar,Continental,1086,4.5,131,Average Experience
+REST-2792,Whitefield,South Indian,463,4.5,523,"Crowded, Slow Delivery"
+REST-2793,HSR Layout,Chinese,633,4.5,1428,"Crowded, Searching for Healthy"
+REST-2794,Whitefield,Biryani,496,3.5,23,Slow Delivery
+REST-2795,Koramangala,Healthy/Salad,1134,4.1,1061,Crowded
+REST-2796,Koramangala,Biryani,683,3.9,185,Average Experience
+REST-2797,Jayanagar,Chinese,406,4.8,952,Crowded
+REST-2798,Koramangala,Chinese,737,3.6,74,Average Experience
+REST-2799,Koramangala,Continental,1029,4.3,58,Average Experience
+REST-2800,Koramangala,Biryani,831,4.5,1449,Crowded
+REST-2801,HSR Layout,North Indian,337,3.8,77,Oily
+REST-2802,Koramangala,North Indian,896,3.5,60,Average Experience
+REST-2803,Whitefield,North Indian,562,3.2,84,"Bad Service, Slow Delivery"
+REST-2804,Koramangala,North Indian,578,4.8,573,Crowded
+REST-2805,HSR Layout,North Indian,200,3.4,164,"Bad Service, Oily"
+REST-2806,Electronic City,Healthy/Salad,435,4.1,482,Average Experience
+REST-2807,Koramangala,Healthy/Salad,1025,3.5,142,Average Experience
+REST-2808,Jayanagar,South Indian,205,2.8,39,Bad Service
+REST-2809,Indiranagar,Continental,894,3.3,37,Bad Service
+REST-2810,Koramangala,North Indian,879,4.0,70,Average Experience
+REST-2811,HSR Layout,Biryani,200,3.6,278,Average Experience
+REST-2812,Koramangala,Continental,708,3.5,37,Average Experience
+REST-2813,Koramangala,Continental,1226,3.6,378,Average Experience
+REST-2814,Koramangala,Chinese,928,4.2,332,Average Experience
+REST-2815,Koramangala,Chinese,733,4.0,232,Average Experience
+REST-2816,HSR Layout,Biryani,704,3.7,227,Average Experience
+REST-2817,Koramangala,Chinese,866,4.7,424,Average Experience
+REST-2818,Indiranagar,North Indian,457,3.8,58,Average Experience
+REST-2819,Jayanagar,Continental,437,3.9,98,Average Experience
+REST-2820,Indiranagar,Biryani,721,3.5,105,Average Experience
+REST-2821,Koramangala,North Indian,528,3.3,312,Bad Service
+REST-2822,Indiranagar,Healthy/Salad,710,4.5,1337,Crowded
+REST-2823,Electronic City,Healthy/Salad,556,3.0,17,Bad Service
+REST-2824,Koramangala,North Indian,749,4.6,174,Average Experience
+REST-2825,Indiranagar,Healthy/Salad,1293,4.0,72,Average Experience
+REST-2826,Koramangala,Chinese,840,4.0,44,Average Experience
+REST-2827,Koramangala,North Indian,690,4.1,611,Crowded
+REST-2828,Electronic City,South Indian,548,4.5,798,Crowded
+REST-2829,Koramangala,South Indian,685,3.0,99,Bad Service
+REST-2830,Koramangala,Continental,762,3.5,72,Average Experience
+REST-2831,HSR Layout,North Indian,832,3.7,49,"Oily, Searching for Healthy"
+REST-2832,HSR Layout,South Indian,546,3.2,8,Bad Service
+REST-2833,Koramangala,North Indian,389,4.8,2178,Crowded
+REST-2834,HSR Layout,Chinese,200,4.5,257,Average Experience
+REST-2835,Indiranagar,North Indian,737,4.6,118,Average Experience
+REST-2836,Indiranagar,Healthy/Salad,759,3.6,366,Average Experience
+REST-2837,Koramangala,Biryani,817,3.5,100,Average Experience
+REST-2838,Indiranagar,South Indian,1299,4.3,93,Average Experience
+REST-2839,Whitefield,South Indian,332,4.6,3235,"Crowded, Slow Delivery"
+REST-2840,Koramangala,Chinese,1181,4.7,838,Crowded
+REST-2841,Whitefield,Healthy/Salad,556,3.4,14,"Bad Service, Slow Delivery"
+REST-2842,Indiranagar,South Indian,790,3.5,222,Average Experience
+REST-2843,Indiranagar,South Indian,744,4.2,2543,Crowded
+REST-2844,Whitefield,Chinese,200,3.8,33,Slow Delivery
+REST-2845,Jayanagar,Chinese,508,3.3,4,Bad Service
+REST-2846,Indiranagar,Chinese,932,3.9,55,Average Experience
+REST-2847,Electronic City,South Indian,380,3.9,20,Average Experience
+REST-2848,HSR Layout,Healthy/Salad,200,4.6,428,Average Experience
+REST-2849,Whitefield,Biryani,540,4.1,1233,"Crowded, Slow Delivery"
+REST-2850,HSR Layout,North Indian,532,3.2,230,"Bad Service, Oily"
+REST-2851,Koramangala,Chinese,871,3.7,76,Average Experience
+REST-2852,HSR Layout,Healthy/Salad,615,3.7,8,Average Experience
+REST-2853,Koramangala,Chinese,850,3.5,10,Average Experience
+REST-2854,HSR Layout,North Indian,540,3.4,195,"Bad Service, Oily"
+REST-2855,Koramangala,Healthy/Salad,439,3.5,23,Average Experience
+REST-2856,Jayanagar,Healthy/Salad,200,3.1,46,Bad Service
+REST-2857,Indiranagar,South Indian,664,4.3,1583,Crowded
+REST-2858,Indiranagar,Healthy/Salad,489,4.0,81,Average Experience
+REST-2859,Whitefield,South Indian,340,3.9,62,Slow Delivery
+REST-2860,Koramangala,North Indian,511,3.2,69,Bad Service
+REST-2861,Whitefield,Healthy/Salad,590,3.6,367,Slow Delivery
+REST-2862,Whitefield,South Indian,370,4.5,214,Slow Delivery
+REST-2863,Indiranagar,South Indian,978,3.4,118,Bad Service
+REST-2864,Indiranagar,Continental,547,4.4,3164,Crowded
+REST-2865,Indiranagar,Healthy/Salad,389,3.5,134,Average Experience
+REST-2866,Koramangala,Continental,620,3.5,83,Average Experience
+REST-2867,Koramangala,Chinese,856,4.1,971,Crowded
+REST-2868,HSR Layout,South Indian,547,3.5,202,Searching for Healthy
+REST-2869,Electronic City,Biryani,359,3.8,355,Average Experience
+REST-2870,Jayanagar,Biryani,200,3.9,227,Average Experience
+REST-2871,Koramangala,North Indian,797,4.2,5185,Crowded
+REST-2872,Koramangala,Chinese,487,2.9,20,Bad Service
+REST-2873,Whitefield,Chinese,567,4.2,935,"Crowded, Slow Delivery"
+REST-2874,Electronic City,Biryani,403,4.5,2854,Crowded
+REST-2875,Whitefield,Continental,596,4.4,231,Slow Delivery
+REST-2876,Electronic City,South Indian,200,3.6,132,Average Experience
+REST-2877,Jayanagar,South Indian,200,3.3,36,Bad Service
+REST-2878,HSR Layout,North Indian,200,4.3,2117,"Crowded, Oily"
+REST-2879,Koramangala,Biryani,720,3.3,457,Bad Service
+REST-2880,Indiranagar,South Indian,738,2.7,69,Bad Service
+REST-2881,Koramangala,Healthy/Salad,889,3.9,0,Average Experience
+REST-2882,Jayanagar,Healthy/Salad,200,3.9,173,Average Experience
+REST-2883,Electronic City,Continental,561,4.2,0,Average Experience
+REST-2884,Koramangala,Continental,867,4.1,371,Average Experience
+REST-2885,Jayanagar,Continental,445,3.4,102,Bad Service
+REST-2886,Koramangala,Healthy/Salad,1029,4.8,1409,Crowded
+REST-2887,Koramangala,Chinese,785,3.3,126,Bad Service
+REST-2888,Koramangala,South Indian,744,2.7,287,Bad Service
+REST-2889,HSR Layout,Healthy/Salad,484,4.1,476,Average Experience
+REST-2890,Koramangala,Chinese,687,4.1,215,Average Experience
+REST-2891,Indiranagar,Healthy/Salad,529,3.7,73,Average Experience
+REST-2892,HSR Layout,North Indian,200,3.4,140,"Bad Service, Oily"
+REST-2893,Koramangala,Continental,951,4.5,246,Average Experience
+REST-2894,Electronic City,South Indian,200,3.6,3,Average Experience
+REST-2895,HSR Layout,Chinese,472,3.6,110,Average Experience
+REST-2896,Indiranagar,Healthy/Salad,684,4.7,190,Average Experience
+REST-2897,Indiranagar,Biryani,571,3.5,35,Average Experience
+REST-2898,Whitefield,Chinese,403,3.7,749,"Crowded, Slow Delivery"
+REST-2899,HSR Layout,Biryani,416,3.7,209,Searching for Healthy
+REST-2900,Whitefield,South Indian,434,3.5,28,Slow Delivery
+REST-2901,Koramangala,South Indian,945,4.9,618,Crowded
+REST-2902,Koramangala,Biryani,919,3.6,28,Average Experience
+REST-2903,Koramangala,Chinese,1022,4.0,184,Average Experience
+REST-2904,Koramangala,North Indian,695,4.3,59,Average Experience
+REST-2905,Koramangala,North Indian,401,4.0,49,Average Experience
+REST-2906,HSR Layout,Chinese,200,3.2,141,Bad Service
+REST-2907,HSR Layout,North Indian,319,4.0,22,Oily
+REST-2908,Electronic City,Biryani,549,4.0,81,Average Experience
+REST-2909,Koramangala,Chinese,1120,3.0,39,Bad Service
+REST-2910,Whitefield,Chinese,320,3.1,127,"Bad Service, Slow Delivery"
+REST-2911,HSR Layout,Continental,681,4.4,427,Average Experience
+REST-2912,Koramangala,Chinese,650,3.1,13,Bad Service
+REST-2913,Koramangala,Biryani,510,4.4,1231,Crowded
+REST-2914,Jayanagar,Healthy/Salad,415,4.0,198,Average Experience
+REST-2915,Koramangala,Continental,838,2.8,13,Bad Service
+REST-2916,Koramangala,South Indian,792,3.3,24,Bad Service
+REST-2917,HSR Layout,North Indian,420,4.3,200,Oily
+REST-2918,Indiranagar,Healthy/Salad,743,3.3,3,Bad Service
+REST-2919,Jayanagar,South Indian,574,4.0,12,Average Experience
+REST-2920,Koramangala,Continental,1094,3.7,127,Average Experience
+REST-2921,Koramangala,Biryani,587,4.1,392,Average Experience
+REST-2922,HSR Layout,Healthy/Salad,479,3.9,9,Average Experience
+REST-2923,Indiranagar,Biryani,1003,4.0,168,Average Experience
+REST-2924,Koramangala,North Indian,815,3.6,243,Average Experience
+REST-2925,Koramangala,North Indian,937,3.7,28,Average Experience
+REST-2926,Koramangala,Healthy/Salad,817,4.3,635,Crowded
+REST-2927,Jayanagar,Healthy/Salad,541,4.3,1941,Crowded
+REST-2928,Indiranagar,Biryani,668,3.6,109,Average Experience
+REST-2929,HSR Layout,Continental,396,4.1,7730,Crowded
+REST-2930,Whitefield,Healthy/Salad,618,4.6,1,Slow Delivery
+REST-2931,Jayanagar,Biryani,686,2.8,64,Bad Service
+REST-2932,Koramangala,Biryani,643,4.1,2287,Crowded
+REST-2933,Koramangala,Chinese,754,3.0,152,Bad Service
+REST-2934,Indiranagar,Chinese,1470,3.6,114,Average Experience
+REST-2935,Whitefield,North Indian,849,4.0,36,Slow Delivery
+REST-2936,HSR Layout,Continental,822,3.9,14,Searching for Healthy
+REST-2937,Indiranagar,Healthy/Salad,779,4.3,75,Average Experience
+REST-2938,Koramangala,Continental,1129,3.8,33,Average Experience
+REST-2939,HSR Layout,South Indian,403,3.5,19,Average Experience
+REST-2940,Whitefield,Healthy/Salad,314,3.1,142,"Bad Service, Slow Delivery"
+REST-2941,HSR Layout,North Indian,200,4.0,28,Oily
+REST-2942,Whitefield,North Indian,216,4.1,212,Slow Delivery
+REST-2943,Koramangala,Biryani,288,3.7,62,Average Experience
+REST-2944,HSR Layout,Chinese,200,3.7,120,Average Experience
+REST-2945,Indiranagar,South Indian,815,2.7,6,Bad Service
+REST-2946,Koramangala,North Indian,702,3.2,6,Bad Service
+REST-2947,Indiranagar,South Indian,1065,3.5,134,Average Experience
+REST-2948,Indiranagar,North Indian,894,3.4,177,Bad Service
+REST-2949,Koramangala,South Indian,902,2.6,17,Bad Service
+REST-2950,Whitefield,Healthy/Salad,475,3.5,3,Slow Delivery
+REST-2951,Koramangala,Healthy/Salad,770,2.6,48,Bad Service
+REST-2952,Indiranagar,Biryani,862,3.1,268,Bad Service
+REST-2953,Whitefield,South Indian,645,4.0,226,Slow Delivery
+REST-2954,HSR Layout,Biryani,233,3.9,105,Average Experience
+REST-2955,Jayanagar,Healthy/Salad,293,3.4,186,Bad Service
+REST-2956,Koramangala,Chinese,828,3.2,44,Bad Service
+REST-2957,Indiranagar,North Indian,718,4.6,1629,Crowded
+REST-2958,Jayanagar,Healthy/Salad,320,3.7,19,Average Experience
+REST-2959,Koramangala,Biryani,817,3.1,173,Bad Service
+REST-2960,Whitefield,Chinese,400,4.7,2694,"Crowded, Slow Delivery"
+REST-2961,Koramangala,Healthy/Salad,923,4.1,361,Average Experience
+REST-2962,HSR Layout,Healthy/Salad,350,4.0,213,Average Experience
+REST-2963,HSR Layout,Biryani,242,4.6,3457,Crowded
+REST-2964,Koramangala,Chinese,1087,3.6,279,Average Experience
+REST-2965,HSR Layout,Biryani,200,4.2,1811,Crowded
+REST-2966,Electronic City,Biryani,253,4.5,225,Average Experience
+REST-2967,Koramangala,Healthy/Salad,322,3.8,100,Average Experience
+REST-2968,Indiranagar,Healthy/Salad,695,2.8,75,Bad Service
+REST-2969,Jayanagar,Continental,200,3.6,24,Average Experience
+REST-2970,Whitefield,Biryani,218,3.3,135,"Bad Service, Slow Delivery"
+REST-2971,Koramangala,Biryani,636,3.6,40,Average Experience
+REST-2972,HSR Layout,Biryani,235,2.9,226,Bad Service
+REST-2973,Indiranagar,North Indian,675,3.4,68,Bad Service
+REST-2974,HSR Layout,Healthy/Salad,661,3.6,19,Average Experience
+REST-2975,Jayanagar,Healthy/Salad,205,4.0,107,Average Experience
+REST-2976,Indiranagar,Chinese,763,3.5,68,Average Experience
+REST-2977,Indiranagar,Healthy/Salad,702,3.7,13,Average Experience
+REST-2978,Jayanagar,North Indian,761,3.3,157,Bad Service
+REST-2979,Whitefield,Continental,471,4.1,201,Slow Delivery
+REST-2980,Whitefield,Healthy/Salad,295,3.6,398,Slow Delivery
+REST-2981,Electronic City,South Indian,450,4.3,12,Average Experience
+REST-2982,Whitefield,Healthy/Salad,337,3.8,84,Slow Delivery
+REST-2983,Indiranagar,Healthy/Salad,623,4.2,597,Crowded
+REST-2984,Koramangala,Continental,996,3.6,105,Average Experience
+REST-2985,Indiranagar,South Indian,670,3.2,172,Bad Service
+REST-2986,Electronic City,Chinese,200,4.7,58,Average Experience
+REST-2987,Koramangala,South Indian,825,3.8,25,Average Experience
+REST-2988,Jayanagar,Chinese,200,3.3,7,Bad Service
+REST-2989,Koramangala,South Indian,848,3.8,152,Average Experience
+REST-2990,HSR Layout,Biryani,200,4.1,1026,Crowded
+REST-2991,Koramangala,Chinese,796,2.8,48,Bad Service
+REST-2992,Koramangala,Continental,835,3.5,36,Average Experience
+REST-2993,Indiranagar,Biryani,693,3.2,187,Bad Service
+REST-2994,Indiranagar,Biryani,893,4.5,401,Average Experience
+REST-2995,Whitefield,North Indian,419,3.7,36,Slow Delivery
+REST-2996,HSR Layout,Chinese,272,3.1,37,Bad Service
+REST-2997,Electronic City,Healthy/Salad,200,4.2,405,Average Experience
+REST-2998,Jayanagar,Continental,703,3.7,160,Average Experience
+REST-2999,Whitefield,Biryani,344,3.6,222,Slow Delivery
